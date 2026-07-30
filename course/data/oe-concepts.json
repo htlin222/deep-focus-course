@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "source": "Crossref（api.crossref.org）",
+    "queried_at": "2026-07-31",
+    "note": "三個最根本主張的查核，顯示在首頁與立場頁。結論照實記錄，包含對課程不利的部分。"
+  },
+  "conditions": [
+    {
+      "unit": "concept-1",
+      "name": "切換任務真的有代價嗎",
+      "name_en": "Does task switching really cost you?",
+      "evidence_grade": "moderate",
+      "claim": "課程主張：每次切換任務都會留下「注意力殘留」，讓接下來的工作品質下降；因此深度工作必須完全隔離。",
+      "finding": "切換成本本身在認知心理學裡是高度可重複的現象：即使切換可預期、也有準備時間，反應仍會變慢，任務越複雜代價越大。Leroy 進一步證實，前一項任務沒完成就切走，會拖累下一項任務的表現。不過「重度媒體多工者的注意力比較差」這個更常被引用的推論，在十年後的統合分析中效果縮到接近零。",
+      "effect_size": "實驗室的切換成本多在數百毫秒到數秒等級；注意力殘留研究的樣本為大學生、任務為數分鐘的短作業。Mark 等人的現場研究則發現被打斷後工作反而更快完成，代價出現在壓力與負荷感而非時間。",
+      "limits": "沒有任何研究直接測量「一整天多次切換」對知識工作實際產出的累積影響。把毫秒級的實驗室成本外推成「一天損失數小時」是課程與暢銷書的推論，不是資料。",
+      "summary": "切換有代價，這一點沒有爭議；有爭議的是代價有多大、以及能不能線性外推到整天的工作。",
+      "red_flags": [
+        "看到「切換一次要 23 分鐘才能回到專注」這類數字時，先問出處——這個數字來自單一研究的特定情境，常被斷章取義",
+        "「多工的人腦子壞掉」的說法源自 2009 年的橫斷面研究，後續複製失敗"
+      ],
+      "caveats": "課程應誠實說明：注意力殘留是實驗室現象，強度足以支持「盡量別在深度時段切走」，但不足以支持「切換一次就毀掉一個上午」這種修辭。",
+      "citations": [
+        {
+          "doi": "10.1016/j.obhdp.2009.04.002",
+          "title": "Why is it so hard to do my work? The challenge of attention residue when switching between work tasks",
+          "journal": "Organizational Behavior and Human Decision Processes",
+          "year": 2009,
+          "url": "https://doi.org/10.1016/j.obhdp.2009.04.002",
+          "design": "lab-experiment",
+          "takeaway": "注意力殘留的原始證據；效果真實但屬短時作業的實驗室情境。"
+        },
+        {
+          "doi": "10.1073/pnas.0903620106",
+          "title": "Cognitive control in media multitaskers",
+          "journal": "Proceedings of the National Academy of Sciences",
+          "year": 2009,
+          "url": "https://doi.org/10.1073/pnas.0903620106",
+          "design": "cross-sectional",
+          "takeaway": "最常被引用的「多工者注意力較差」原始研究，設計為橫斷面比較，無法談因果。"
+        },
+        {
+          "doi": "10.5817/cp2021-2-7",
+          "title": "“Cognitive control in media multitaskers” ten years on: A meta-analysis",
+          "journal": "Cyberpsychology: Journal of Psychosocial Research on Cyberspace",
+          "year": 2021,
+          "url": "https://doi.org/10.5817/cp2021-2-7",
+          "design": "meta-analysis",
+          "takeaway": "十年後統合分析：關聯小到可忽略，原始結論沒有站住。"
+        },
+        {
+          "doi": "10.1145/1357054.1357072",
+          "title": "The cost of interrupted work",
+          "journal": "Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems - CHI '08",
+          "year": 2008,
+          "url": "https://doi.org/10.1145/1357054.1357072",
+          "design": "field-experiment",
+          "takeaway": "被打斷的代價主要落在壓力與負荷感，不是完成時間。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-2",
+      "name": "社群媒體真的在傷害你嗎",
+      "name_en": "Is social media really harming you?",
+      "evidence_grade": "contested",
+      "claim": "課程主張：社群媒體被設計成會奪走注意力並損害心理健康，因此唯一有效的做法是整段移除，而不是節制使用。",
+      "finding": "大型橫斷面資料顯示，數位科技使用與青少年福祉的關聯極小——約 0.4% 的變異，與「戴眼鏡」「吃馬鈴薯」同一量級。另一方面，幾個隨機化的停用或減量實驗確實測到福祉改善：付費停用 Facebook 四週使主觀福祉提升約 0.09 個標準差，同時降低政治極化，但也降低新聞知識；限制每平台每天十分鐘、為期三週的實驗，孤獨與憂鬱下降。",
+      "effect_size": "相關性研究：解釋約 0.4% 變異。隨機實驗：約 0.09 SD（Facebook 停用四週），屬於小效果。「手機在旁邊就佔用認知資源」的原始研究流傳極廣，但統合分析後效果非常小且不穩健。",
+      "limits": "隨機實驗多為數週、樣本以大學生或美國成人為主；停用組同時被迫改變生活作息，很難分離「少用社群」與「多做別的事」的貢獻。長期效果幾乎沒有資料。",
+      "summary": "減少使用可能有小幅好處，但好處的來源比較像是「你把時間換去做了別的事」，而不是「大腦被修好了」。",
+      "red_flags": [
+        "任何宣稱社群媒體「造成」心理疾病流行的論述，目前都超出資料能支持的範圍",
+        "同一批資料可以被講成「危機」也可以被講成「微不足道」，看的是有沒有報告效果量"
+      ],
+      "caveats": "課程應誠實說明：Cal Newport 對社群媒體的批評在機制層面（注意力經濟的商業模式）站得住腳，但在健康後果的因果強度上，他引用的證據比公開演講給人的印象弱得多。",
+      "citations": [
+        {
+          "doi": "10.1038/s41562-018-0506-1",
+          "title": "The association between adolescent well-being and digital technology use",
+          "journal": "Nature Human Behaviour",
+          "year": 2019,
+          "url": "https://doi.org/10.1038/s41562-018-0506-1",
+          "design": "specification-curve-analysis",
+          "takeaway": "三份大型資料集：科技使用只解釋約 0.4% 的福祉變異。"
+        },
+        {
+          "doi": "10.1257/aer.20190658",
+          "title": "The Welfare Effects of Social Media",
+          "journal": "American Economic Review",
+          "year": 2020,
+          "url": "https://doi.org/10.1257/aer.20190658",
+          "design": "rct",
+          "takeaway": "停用四週的隨機實驗：福祉小幅提升、極化下降，但新聞知識也下降。"
+        },
+        {
+          "doi": "10.1521/jscp.2018.37.10.751",
+          "title": "No More FOMO: Limiting Social Media Decreases Loneliness and Depression",
+          "journal": "Journal of Social and Clinical Psychology",
+          "year": 2018,
+          "url": "https://doi.org/10.1521/jscp.2018.37.10.751",
+          "design": "rct",
+          "takeaway": "限量使用三週後孤獨與憂鬱下降；樣本 143 名大學生。"
+        },
+        {
+          "doi": "10.1080/15213269.2023.2286647",
+          "title": "Does the Mere Presence of a Smartphone Impact Cognitive Performance? A Meta-Analysis of the “Brain Drain Effect”",
+          "journal": "Media Psychology",
+          "year": 2023,
+          "url": "https://doi.org/10.1080/15213269.2023.2286647",
+          "design": "meta-analysis",
+          "takeaway": "「手機在旁邊就變笨」的效果非常小，與發表偏誤難以區分。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-3",
+      "name": "專注力可以像肌肉一樣練大嗎",
+      "name_en": "Can attention be trained like a muscle?",
+      "evidence_grade": "limited",
+      "claim": "課程主張：專注是一種可以透過刻意訓練逐步加強的能力，就像肌肉一樣可以練大，練久了在任何工作上都會更專注。",
+      "finding": "「練習會讓你在那件事上變好」有紮實證據——提取練習、分散練習、有回饋的結構化練習都被反覆驗證。但「一般化的專注力訓練」則不然：認知訓練與正念訓練的統合分析普遍顯示，練習後在受訓練的作業上進步明顯，遷移到未受訓的作業則效果小且不穩定。刻意練習本身解釋的表現變異也遠低於通俗說法。",
+      "effect_size": "刻意練習解釋的表現變異：遊戲約 21%、音樂約 18%、運動約 18%、專業領域約 1%。正念／注意力訓練的統合分析多落在小效果，且遠遷移證據薄弱。",
+      "limits": "幾乎沒有研究直接檢驗「每天做固定時長的深度工作」這個介入本身。這門課裡的「專注訓練」是把刻意練習與抗分心的原則類推過來，屬於合理推論而非驗證結果。",
+      "summary": "專注會因為練習而變好，但那是任務特定的技能與耐受度，不是一塊可以練大之後到處通用的「注意力肌肉」。",
+      "red_flags": [
+        "看到「訓練幾週就能提升整體專注力」的宣稱，先問測的是受訓作業還是未受訓作業",
+        "把「一萬小時」當成保證的說法，在統合分析出來之後已經無法成立"
+      ],
+      "caveats": "課程應誠實說明：逐步加長深度時段是一個合理、低風險的做法，但它讓你更能忍受長時間工作，不代表你的注意力本身被強化了。真正的注意力困難（例如 ADHD）不該用生產力課程處理。",
+      "citations": [
+        {
+          "doi": "10.1177/0956797614535810",
+          "title": "Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions",
+          "journal": "Psychological Science",
+          "year": 2014,
+          "url": "https://doi.org/10.1177/0956797614535810",
+          "design": "meta-analysis",
+          "takeaway": "刻意練習解釋的變異遠低於一萬小時法則的印象，專業領域僅約 1%。"
+        },
+        {
+          "doi": "10.1007/s12671-021-01593-w",
+          "title": "Meditation, Mindfulness, and Attention: a Meta-analysis",
+          "journal": "Mindfulness",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s12671-021-01593-w",
+          "design": "meta-analysis",
+          "takeaway": "注意力訓練的效果偏小，且對未受訓作業的遷移證據薄弱。"
+        },
+        {
+          "doi": "10.1037/0033-295x.100.3.363",
+          "title": "The role of deliberate practice in the acquisition of expert performance.",
+          "journal": "Psychological Review",
+          "year": 1993,
+          "url": "https://doi.org/10.1037/0033-295x.100.3.363",
+          "design": "review",
+          "takeaway": "練習要有回饋、要超出舒適區才有效——這一點課程講對了。"
+        }
+      ]
+    }
+  ]
+}

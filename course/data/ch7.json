@@ -1,0 +1,220 @@
+{
+  "chapter": "CH7",
+  "units": [
+    {
+      "id": "ch7-u1",
+      "name": "無聊是專注的健身房",
+      "type": "concept",
+      "assessment": "明天挑三個空檔（等車、排隊、電梯），刻意不拿手機。晚上回想：那三次你在想什麼？如果答案是「只想著要拿手機」，那正是這一單元要練的。",
+      "tight": [
+        "把每個空檔都用內容填滿",
+        "以為無聊只是需要被消除的不適"
+      ],
+      "weak": [
+        "能忍受十分鐘沒有輸入的狀態",
+        "知道無聊與創意產出的關係"
+      ],
+      "lesson": {
+        "title": "Boredom is essential for productivity | Cal Newport and Lex Fridman",
+        "channel": "Lex Clips",
+        "url": "https://www.youtube.com/watch?v=h5w5XYvTAlU",
+        "duration": "8:04",
+        "why": "與 Lex Fridman 對談中專門處理無聊的一段，把「擁抱無聊」的理由講得比書上更具體"
+      },
+      "drills": [
+        {
+          "name": "刺激大腦、產生更多想法的簡單做法",
+          "kind": "howto",
+          "target": "創意輸入",
+          "dose": "四分鐘",
+          "title": "The Easy Fix To Stimulate Your Mind And Generate More Ideas",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=iG9bcYtC4x8",
+          "duration": "4:22"
+        },
+        {
+          "name": "能不能讓學習變得跟社群媒體一樣上癮",
+          "kind": "idea",
+          "target": "動機設計",
+          "dose": "二十七分鐘",
+          "title": "Can You Make Learning As Addictive As Social Media? | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=ohruWW2WxYY",
+          "duration": "26:58"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u2",
+      "name": "冥想式散步與生產式思考",
+      "type": "practice",
+      "assessment": "今天走路二十分鐘，事先指定一個要想的問題，不帶耳機。每次發現自己走神，就把問題重述一次拉回來。回來後寫下三句話的結論，有沒有結論都算成功。",
+      "tight": [
+        "以為思考一定要坐在桌前",
+        "散步時聽 podcast，等於沒有留白"
+      ],
+      "weak": [
+        "能在走路時推進一個明確問題",
+        "知道分心後要把注意力帶回問題本身"
+      ],
+      "lesson": {
+        "title": "Do You Have Structure To Your Meditative Walks?",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=BJueFZRYwj4",
+        "duration": "4:12",
+        "why": "Cal Newport 說明他的思考散步實際有沒有結構，是「生產式冥想」最直接的操作說明"
+      },
+      "drills": [
+        {
+          "name": "改善專注與思緒清晰度的一套簡單做法",
+          "kind": "howto",
+          "target": "整體流程",
+          "dose": "十八分鐘",
+          "title": "A Simple Way To Improve Focus & Clarity: Boost Productivity Before 2024 | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=AbE9aPULwqk",
+          "duration": "17:59"
+        },
+        {
+          "name": "累到想不動的時候怎麼辦",
+          "kind": "qa",
+          "target": "低能量日",
+          "dose": "三分鐘",
+          "title": "What Do You Do When You Get Tired?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=v2-b1-cjkLc",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u3",
+      "name": "太忙以致無法思考",
+      "type": "concept",
+      "assessment": "打開下週的行事曆，找出一段完全沒排事情的時間。如果一段都沒有，現在就排一小時進去，標題寫「思考」。一週後看它有沒有被別的事吃掉。",
+      "tight": [
+        "把行事曆填滿當成安全感",
+        "沒有任何不排事情的時段"
+      ],
+      "weak": [
+        "能刻意留白一段不排事的時間",
+        "知道思考需要被排進行事曆"
+      ],
+      "lesson": {
+        "title": "Are You Too Busy to Think? | The Case for Pressing Pause",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=ISXAmyZi_-Y",
+        "duration": "33:07",
+        "why": "把「忙到沒空思考」當成結構問題而不是時間問題來談，是本章最完整的一支"
+      },
+      "drills": [
+        {
+          "name": "用持續的小進展對抗壓垮感",
+          "kind": "howto",
+          "target": "推進方式",
+          "dose": "五分鐘",
+          "title": "Constant Practical Progress To Fight Overwhelm",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=Sel2DRhO0YY",
+          "duration": "4:59"
+        },
+        {
+          "name": "不覺得壓力大，是不是也有問題",
+          "kind": "qa",
+          "target": "反向檢查",
+          "dose": "七分鐘",
+          "title": "Is It A Problem That I Don't Feel Overwhelmed?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=HT2alpSKjBU",
+          "duration": "6:31"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u4",
+      "name": "深度拖延與動機",
+      "type": "concept",
+      "assessment": "想一件你拖最久的事，寫下你每次想開始時腦中出現的那句話。多數人的那句話都跟「不知道從哪裡開始」有關——那不是懶，是任務沒有被拆開。",
+      "tight": [
+        "把拖延當成懶惰",
+        "用罪惡感逼自己開工"
+      ],
+      "weak": [
+        "能辨認深度拖延的訊號",
+        "知道動機多半來自結構而不是心情"
+      ],
+      "lesson": {
+        "title": "Why Can’t I Motivate Myself To Work?",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=pnrpPWGDyyA",
+        "duration": "11:58",
+        "why": "四十萬觀看的一支，處理「就是提不起勁」這個所有系統都會撞到的問題"
+      },
+      "drills": [
+        {
+          "name": "深度拖延是怎麼一步步形成的",
+          "kind": "idea",
+          "target": "成因",
+          "dose": "十分鐘",
+          "title": "How Does Deep Procrastination Evolve With Time? | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=y2-YWmriqfc",
+          "duration": "10:08"
+        },
+        {
+          "name": "動力一直流失怎麼辦",
+          "kind": "qa",
+          "target": "維持",
+          "dose": "六分鐘",
+          "title": "Help! I Keep Losing My Motivation To Work",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=jGCgl4YBKR4",
+          "duration": "5:59"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u5",
+      "name": "一天能修好整個人生嗎",
+      "type": "concept",
+      "assessment": "如果只能改一件事，而且必須維持三十天，你會選哪一件？寫下來，然後把它縮小到你有九成把握做得到的程度。那才是你該開始的地方。",
+      "tight": [
+        "期待一次大改造解決所有問題",
+        "改變太多項目，結果全部失敗"
+      ],
+      "weak": [
+        "能挑出一個改變後帶動其他的槓桿",
+        "知道改變要小到不會失敗"
+      ],
+      "lesson": {
+        "title": "Can You (Really) Fix Your Entire Life in 1 Day? | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=WxfHdCZNUTI",
+        "duration": "18:50",
+        "why": "Cal Newport 對「一日大改造」這類提案的回應，指出哪些部分真的可行、哪些是幻想"
+      },
+      "drills": [
+        {
+          "name": "一次改一步的實際做法",
+          "kind": "howto",
+          "target": "漸進改變",
+          "dose": "十一分鐘",
+          "title": "Stop Wasting Time & Change Your Life - One Step At A Time | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=yKH0evHd-CQ",
+          "duration": "10:50"
+        },
+        {
+          "name": "追求深度人生反而變焦慮怎麼辦",
+          "kind": "qa",
+          "target": "過度優化",
+          "dose": "十三分鐘",
+          "title": "How Do I Reduce My Anxiety While Trying to Optimize My Deep Life?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=OGzgJzQARsc",
+          "duration": "13:29"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "chapter": "CH6",
+  "units": [
+    {
+      "id": "ch6-u1",
+      "name": "為什麼是斷捨離而不是節制",
+      "type": "concept",
+      "assessment": "回想你上一次為自己訂的使用上限——例如「每天只滑三十分鐘」——實際撐了幾天。如果答案少於一週，你其實已經親自驗證過「節制」這條路為什麼在結構上行不通。",
+      "tight": [
+        "用「每天只滑三十分鐘」的規則管理自己",
+        "把斷捨離當成一次性的排毒活動"
+      ],
+      "weak": [
+        "理解為什麼要一次全停而不是慢慢減",
+        "知道三十天是為了重設而不是懲罰"
+      ],
+      "lesson": {
+        "title": "Digital Minimalism with Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=DsGKzjyj_6Q",
+        "duration": "12:53",
+        "why": "《數位極簡主義》的作者本人導讀，把斷捨離跟一般排毒的差別講清楚"
+      },
+      "drills": [
+        {
+          "name": "《數位極簡主義》核心訊息圖解",
+          "kind": "idea",
+          "target": "全書結構",
+          "dose": "八分鐘",
+          "title": "DIGITAL MINIMALISM by Cal Newport | Core Message",
+          "channel": "Productivity Game",
+          "url": "https://www.youtube.com/watch?v=x_58A8Rh06k",
+          "duration": "7:55"
+        },
+        {
+          "name": "為什麼你該做一次數位排毒（CNBC 訪談）",
+          "kind": "idea",
+          "target": "入門版",
+          "dose": "兩分鐘",
+          "title": "Why You Should Do A Digital Detox - Cal Newport",
+          "channel": "CNBC Make It",
+          "url": "https://www.youtube.com/watch?v=Ht64gExiPXQ",
+          "duration": "2:12"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u2",
+      "name": "三十天實驗怎麼設計",
+      "type": "practice",
+      "assessment": "現在寫兩張清單：一張是接下來三十天完全不碰的可選科技，一張是你打算拿那些時間去做的三件具體事情。第二張沒寫滿，就先別開始。",
+      "tight": [
+        "只停社群但繼續無限滑新聞",
+        "三十天什麼都不做，只是忍耐"
+      ],
+      "weak": [
+        "能寫出自己的「可選科技」清單",
+        "在三十天內安排要嘗試的替代活動"
+      ],
+      "lesson": {
+        "title": "Are You Up for a Digital Declutter? - Cal Newport",
+        "channel": "EntreLeadership",
+        "url": "https://www.youtube.com/watch?v=jSVhApzy8K4",
+        "duration": "8:19",
+        "why": "以訪談形式一步步走完三十天斷捨離的設計流程，比書上的版本更好照做"
+      },
+      "drills": [
+        {
+          "name": "《數位極簡主義》視覺化摘要",
+          "kind": "howto",
+          "target": "流程圖",
+          "dose": "十一分鐘",
+          "title": "Digital Minimalism by Cal Newport - A Visual Summary",
+          "channel": "Verbal to Visual",
+          "url": "https://www.youtube.com/watch?v=sJdZ7kmA2QQ",
+          "duration": "10:34"
+        },
+        {
+          "name": "實際做完之後的評價與提醒",
+          "kind": "qa",
+          "target": "他人經驗",
+          "dose": "十一分鐘",
+          "title": "Digital Minimalism by Cal Newport Review - You May Need This",
+          "channel": "Calum Shallenberger",
+          "url": "https://www.youtube.com/watch?v=2PLqFecyc6U",
+          "duration": "10:53"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u3",
+      "name": "斷捨離失敗了怎麼辦",
+      "type": "practice",
+      "assessment": "如果你曾經試過又失敗，寫下你第一次破功的那個當下：時間、地點、你在做什麼、當時的情緒。多數人的破功點高度重複——找出它，這一次就針對它設計。",
+      "tight": [
+        "失敗一次就認定自己做不到",
+        "沒有安排替代活動就開始戒斷"
+      ],
+      "weak": [
+        "能找出自己失敗的觸發點",
+        "知道復發是流程問題不是人格問題"
+      ],
+      "lesson": {
+        "title": "Why Do I Keep Failing To Complete My Digital Declutter | Deep Questions With Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=oKTsVHt4eqE",
+        "duration": "3:58",
+        "why": "Cal Newport 直接處理「我一直做不完斷捨離」這個問題，答案指向設計而不是意志力"
+      },
+      "drills": [
+        {
+          "name": "如果我的休閒本來就靠手機呢",
+          "kind": "qa",
+          "target": "替代難題",
+          "dose": "五分鐘",
+          "title": "How Do I Digital Detox when my Leisure Involves My Phone?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=vBfLPYwcwwI",
+          "duration": "5:08"
+        },
+        {
+          "name": "一個人實際執行數位極簡後的改變",
+          "kind": "qa",
+          "target": "真實案例",
+          "dose": "七分鐘",
+          "title": "How Cal Newport Digital Minimalism Changed My Life",
+          "channel": "Alex Samuels",
+          "url": "https://www.youtube.com/watch?v=mGFZozJki-k",
+          "duration": "7:24"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u4",
+      "name": "用舊策略馴服新科技",
+      "type": "concept",
+      "assessment": "挑一個你最近才開始用的 App，問三個問題：它支持我哪一項具體價值？有沒有更低成本的方式達到同樣效果？我要為它訂什麼使用規則？答不出第一題就可以刪了。",
+      "tight": [
+        "以為每個新平台都需要全新的對策",
+        "把科技問題當成純意志力問題"
+      ],
+      "weak": [
+        "能把新工具放進既有的篩選流程",
+        "知道判準是「支持我在乎的價值嗎」"
+      ],
+      "lesson": {
+        "title": "Can’t Stop Scrolling? This Old Strategy Can Tame New Technology | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=oI0RIW8-yFc",
+        "duration": "17:12",
+        "why": "把數位極簡的判準抽象成一套可以套用到任何新科技的老策略，比逐一討論平台更耐用"
+      },
+      "drills": [
+        {
+          "name": "個人科技真正的代價",
+          "kind": "idea",
+          "target": "成本計算",
+          "dose": "八分鐘",
+          "title": "The Real Cost of Personal Technology - Cal Newport",
+          "channel": "EntreLeadership",
+          "url": "https://www.youtube.com/watch?v=eio7NS_qdCI",
+          "duration": "8:10"
+        },
+        {
+          "name": "怎麼少看 Netflix（重點不是限制）",
+          "kind": "howto",
+          "target": "替代設計",
+          "dose": "四分鐘",
+          "title": "Unexpected Advice for Watching Less Netflix (Hint: It's Not About Restrictions) | Deep Questions",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=NoJLu7uCHgU",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u5",
+      "name": "斷捨離之後：重建個人科技哲學",
+      "type": "practice",
+      "assessment": "為你決定裝回來的每一個 App 寫一句規則：什麼時候用、在哪個裝置上用、用多久。寫不出規則的，就是還沒想清楚要不要裝回來。",
+      "tight": [
+        "三十天結束就全部裝回來",
+        "沒有為每個工具訂使用規則"
+      ],
+      "weak": [
+        "能為每個留下的工具寫出使用條件",
+        "有定期重新檢視的節奏"
+      ],
+      "lesson": {
+        "title": "Why Your Inner Voice Is So Cruel & How To Declutter Your Life | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=2gmonGUL2VM",
+        "duration": "14:31",
+        "why": "從內在敘事的角度談為什麼要清理生活，補上了純方法論之外的那一層"
+      },
+      "drills": [
+        {
+          "name": "Nicholas Carr 早就預言了現在",
+          "kind": "idea",
+          "target": "思想脈絡",
+          "dose": "兩分鐘",
+          "title": "Nicholas Carr Predicted the Future | Deep Questions Podcast with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=oa_zyXPbQtM",
+          "duration": "2:18"
+        },
+        {
+          "name": "他怎麼看元宇宙這類新平台",
+          "kind": "qa",
+          "target": "新科技判斷",
+          "dose": "十分鐘",
+          "title": "What Are Your Thoughts on the Metaverse?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=OYKYMXkVHjQ",
+          "duration": "10:16"
+        }
+      ]
+    }
+  ]
+}

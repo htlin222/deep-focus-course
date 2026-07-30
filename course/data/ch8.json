@@ -1,0 +1,220 @@
+{
+  "chapter": "CH8",
+  "units": [
+    {
+      "id": "ch8-u1",
+      "name": "太多興趣的危險",
+      "type": "concept",
+      "assessment": "列出你目前「有在做」的所有嗜好。超過三項的話，圈出過去一個月真的花超過五小時的那些。剩下的那幾項才是真的，其餘只是清單。",
+      "tight": [
+        "同時開始五個嗜好",
+        "把「有很多興趣」當成豐富的證明"
+      ],
+      "weak": [
+        "能在一段時間內只深入一項",
+        "知道淺嘗會讓每一項都沒有回報"
+      ],
+      "lesson": {
+        "title": "The Danger Of Having Too Many Interests | Deep Questions With Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=B_KqZ61GEb0",
+        "duration": "5:59",
+        "why": "四十萬觀看的一支，直接處理「興趣太多反而什麼都做不深」這個很少被談的問題"
+      },
+      "drills": [
+        {
+          "name": "怎麼在多個嗜好之間切換",
+          "kind": "qa",
+          "target": "取捨",
+          "dose": "四分鐘",
+          "title": "How Should I Shift Gears From Many Different Hobbies?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=jf_UVP_z47Q",
+          "duration": "4:24"
+        },
+        {
+          "name": "嗜好跟工作太接近會不會失敗",
+          "kind": "qa",
+          "target": "邊界",
+          "dose": "八分鐘",
+          "title": "Is My Hobby Destined to Fail Because It's Too Closely Related to My Work?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=BIsQTZFb_ls",
+          "duration": "7:46"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u2",
+      "name": "高品質休閒要先被排進行程",
+      "type": "practice",
+      "assessment": "回想上週你花最多時間的休閒活動。它需要你動手或動腦嗎？結束後你覺得比較恢復，還是反而更累？把答案寫下來，這一單元接下來的每個做法都從這個答案開始。",
+      "tight": [
+        "把「不做事」當成休息",
+        "休閒完全被動、沒有任何技能成長"
+      ],
+      "weak": [
+        "能安排需要一點技能的休閒活動",
+        "知道消費與創造的恢復效果不同"
+      ],
+      "lesson": {
+        "title": "How Should Students Approach Weekend Planning?",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=aAXtct4shwo",
+        "duration": "6:06",
+        "why": "Cal Newport 對「休閒要不要事先計畫」的直接回答：高品質休閒不會自己發生，它跟工作一樣需要被排進行程"
+      },
+      "drills": [
+        {
+          "name": "開始時間分塊之後，非工作活動怎麼安排",
+          "kind": "howto",
+          "target": "工作與休閒平衡",
+          "dose": "四分鐘",
+          "title": "How do I Balance Non-Work Activities and Work Now that I Time-Block?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=ho_W21a6Ohw",
+          "duration": "4:13"
+        },
+        {
+          "name": "他讀不讀小說、為什麼",
+          "kind": "qa",
+          "target": "閱讀休閒",
+          "dose": "五分鐘",
+          "title": "Do You Like Reading Fiction?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=lpXKKzslx-s",
+          "duration": "4:34"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u3",
+      "name": "友誼衰退與真實連結",
+      "type": "concept",
+      "assessment": "列出三個你在乎但半年沒有好好講過話的人。挑一個，這週約一次不看手機的見面或通話。做完之後記下你的感受，跟滑他們動態的感受比較。",
+      "tight": [
+        "用點讚與限動維繫友誼",
+        "以為隨時可聯絡等於關係良好"
+      ],
+      "weak": [
+        "能安排需要同時在場的互動",
+        "知道低頻高品質勝過高頻低品質"
+      ],
+      "lesson": {
+        "title": "The Friendship Recession: Why So Many Young Men Feel Lost, Lonely & Single Today | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=sAFOVmD5-X8",
+        "duration": "34:28",
+        "why": "從友誼衰退這個社會現象切入，是他談真實連結時最完整、也最不像生產力內容的一支"
+      },
+      "drills": [
+        {
+          "name": "怎麼斷線又不惹惱家人朋友",
+          "kind": "howto",
+          "target": "溝通說法",
+          "dose": "二十三分鐘",
+          "title": "How To Disconnect Without Annoying Your Friends And Family | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=4A8vm9BA6j0",
+          "duration": "23:05"
+        },
+        {
+          "name": "拒絕的藝術",
+          "kind": "howto",
+          "target": "邊界設定",
+          "dose": "十七分鐘",
+          "title": "The Art Of Saying No | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=6gBdiFFzMX4",
+          "duration": "16:53"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u4",
+      "name": "深度人生的三個原則",
+      "type": "concept",
+      "assessment": "把生活分成工作、健康、關係、沉思四塊，各給自己一到十分。分數最低的那一塊，寫下一個這週就能做的具體行動。這比整體提升有用得多。",
+      "tight": [
+        "以為深度人生等於工作更專注",
+        "把深度當成一次到位的狀態"
+      ],
+      "weak": [
+        "能說出深度人生涵蓋哪幾個面向",
+        "知道原則要落到具體行為"
+      ],
+      "lesson": {
+        "title": "Three Principles for Cultivating a Deep Life | Deep Questions With Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=SBXGYOGqWBE",
+        "duration": "8:17",
+        "why": "把深度人生濃縮成三條原則，是第二篇與第三篇之間的橋樑"
+      },
+      "drills": [
+        {
+          "name": "培養深度人生實際需要什麼",
+          "kind": "idea",
+          "target": "整體架構",
+          "dose": "十五分鐘",
+          "title": "This Is What You Need To Cultivate A Deep Life | Deep Questions with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=rLG3yMbrH0g",
+          "duration": "15:08"
+        },
+        {
+          "name": "成年後怎麼建立深度人生的結構",
+          "kind": "qa",
+          "target": "人生階段",
+          "dose": "四分鐘",
+          "title": "Becoming An Adult With A Deep Life Structure | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=n5Km5Akb1i8",
+          "duration": "4:18"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u5",
+      "name": "讓生活結構承載價值",
+      "type": "practice",
+      "assessment": "打開你這週的行事曆，替每一個區塊標上它服務的是哪一項價值。標不出來的那些區塊加總起來是多少小時？那個數字就是你這一週真正付出的機會成本。",
+      "tight": [
+        "價值寫在筆記本裡但行程完全無關",
+        "只在年底檢視一次人生方向"
+      ],
+      "weak": [
+        "能從價值反推行程",
+        "有定期檢視結構的機制"
+      ],
+      "lesson": {
+        "title": "Reconfiguring Your Life To Amplify Sources Of Value",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=826Oqz82Odw",
+        "duration": "22:17",
+        "why": "談怎麼重新配置生活結構去放大真正有價值的來源，是計畫系統的價值層版本"
+      },
+      "drills": [
+        {
+          "name": "規劃長遠的同時怎麼享受當下",
+          "kind": "howto",
+          "target": "當下與未來",
+          "dose": "九分鐘",
+          "title": "How To Enjoy The Moment While Planning A Deep Future",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=8nrpLVfph1k",
+          "duration": "8:48"
+        },
+        {
+          "name": "如果我設計出來的深度人生是錯的呢",
+          "kind": "qa",
+          "target": "自我懷疑",
+          "dose": "五分鐘",
+          "title": "What If My Designed Deep Life Is Bad?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=f54V3DTTN-Y",
+          "duration": "5:05"
+        }
+      ]
+    }
+  ]
+}

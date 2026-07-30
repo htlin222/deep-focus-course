@@ -1,0 +1,187 @@
+{
+  "$schema": "../src/build/course.schema.json",
+  "site": {
+    "project": "deep-focus-course",
+    "name": "深度專注自學課",
+    "url": "https://deep-focus-course.pages.dev",
+    "locale": "zh-Hant",
+    "ogLocale": "zh_TW",
+    "brandIcon": "brain",
+    "title": "深度專注自學課 — 用 Cal Newport 公開影片重建的 12 章專注系統",
+    "description": "從深度工作、數位極簡、慢速生產力到職涯資本，60 個單元、180 支 YouTube 公開影片，全部來自 Cal Newport 本人的頻道、演講與訪談。每個主題附心理學文獻查核，包括那些跟他的說法對不上的研究。非官方策展，完全免費。",
+    "ogDescription": "Cal Newport 的專注系統，用他自己公開講過的影片重建成一門 12 章 60 單元的免費課程。附 Crossref 文獻查核，證據站不住腳的地方照實標出來。",
+    "keywords": [
+      "深度工作",
+      "Cal Newport",
+      "數位極簡",
+      "慢速生產力",
+      "時間分塊",
+      "專注力",
+      "注意力殘留"
+    ],
+    "audience": "被通知與雜事切碎工作時間的知識工作者、學生與自由工作者",
+    "about": ["深度工作", "數位極簡主義", "時間管理", "注意力研究"],
+    "learningResourceType": ["影片課程", "自學指引", "自我評估"]
+  },
+  "hero": {
+    "eyebrow": "非官方策展 · 完全免費",
+    "heading": "把 Cal Newport 講過的東西，排成一門可以走完的課",
+    "lede": "十二個章節、{lessonUnits} 個單元，從深度工作的定義一路走到 AI 時代的職涯選擇。每個單元給你三件事：<strong>一支講清楚原理的主課</strong>、<strong>兩支可以照做的延伸片段</strong>，以及<strong>這個主張在心理學文獻裡站得住腳嗎</strong>。"
+  },
+  "ui": {
+    "searchPlaceholder": "搜尋單元、主題或關鍵字…",
+    "playlistSearch": "搜尋播放清單…",
+    "tabs": {
+      "course": "課程內容",
+      "player": "上課模式",
+      "stance": "這門課的立場"
+    },
+    "progressLabel": "學習進度",
+    "facetLabel": "依主題篩選",
+    "assessmentLabel": "先自己檢查一次",
+    "tightLabel": "常見誤區",
+    "weakLabel": "該建立的能力",
+    "lessonLabel": "主課",
+    "drillEvidenceLabel": "這一類做法的實證",
+    "unitEvidenceLabel": "實證強度",
+    "unitNoun": "個單元",
+    "lessonNoun": "堂主課",
+    "drillNoun": "支延伸片段",
+    "drillNounShort": "支延伸",
+    "kindFilterLabel": "片段類型篩選",
+    "missingTitle": "尚未找到合格影片",
+    "missingHint": "這個主題在 YouTube 上沒有 Cal Newport 本人品質足夠的公開影片",
+    "lessonLangLabel": "主課版本",
+    "watchLabel": "觀看片段",
+    "facetFilterHint": "篩選涉及 {name} 的內容",
+    "evidenceSource": "Crossref",
+    "evidenceSourceLink": "在 doi.org 讀原始文獻",
+    "stats": [
+      { "icon": "layers", "field": "lesson_units", "label": "個單元" },
+      { "icon": "clock", "field": "duration", "label": "課程時長" },
+      { "icon": "book-open", "field": "video_unique", "label": "支不重複影片" },
+      { "icon": "list-video", "field": "drill_units", "label": "支延伸片段" },
+      { "icon": "microscope", "field": "evidence_checked", "label": "題主張查核" }
+    ],
+    "unitTypes": {
+      "concept": "觀念",
+      "system": "系統",
+      "practice": "練習"
+    },
+    "problemType": "concept",
+    "evidenceRows": [
+      { "field": "claim", "label": "課程主張" },
+      { "field": "finding", "label": "文獻怎麼說" },
+      { "field": "effect_size", "label": "效果有多大" },
+      { "field": "limits", "label": "研究的限制" },
+      { "field": "summary", "label": "摘要" },
+      { "field": "red_flags", "label": "別過度推論", "type": "flags" },
+      { "field": "caveats", "label": "課程須誠實告知" }
+    ]
+  },
+  "kinds": [
+    { "id": "idea", "label": "原理", "tone": "accent" },
+    { "id": "howto", "label": "做法", "tone": "success" },
+    { "id": "qa", "label": "實戰問答", "tone": "attention" }
+  ],
+  "grades": [
+    { "id": "strong", "label": "證據充分", "tone": "success" },
+    { "id": "moderate", "label": "證據中等", "tone": "accent" },
+    { "id": "limited", "label": "證據有限", "tone": "attention" },
+    { "id": "contested", "label": "證據互斥", "tone": "danger" }
+  ],
+  "taxonomy": {
+    "facets": "taxonomy.topics",
+    "categories": "taxonomy.practices"
+  },
+  "nav": [
+    { "title": "第一篇　專注工作", "chapters": ["CH1", "CH2", "CH3", "CH4"] },
+    { "title": "第二篇　專注生活", "chapters": ["CH5", "CH6", "CH7", "CH8"] },
+    { "title": "第三篇　專注心智", "chapters": ["CH9", "CH10", "CH11", "CH12"] }
+  ],
+  "chapters": [
+    { "code": "CH1", "title": "專注為何是稀缺資源", "icon": "brain", "source": "ch1", "units": 5, "drills": 10 },
+    { "code": "CH2", "title": "深度工作的操作參數", "icon": "gauge", "source": "ch2", "units": 5, "drills": 10 },
+    { "code": "CH3", "title": "排程、儀式與一日節奏", "icon": "calendar-clock", "source": "ch3", "units": 5, "drills": 10 },
+    { "code": "CH4", "title": "任務與計畫系統", "icon": "list-checks", "source": "ch4", "units": 5, "drills": 10 },
+    { "code": "CH5", "title": "注意力經濟", "icon": "smartphone", "source": "ch5", "units": 5, "drills": 10 },
+    { "code": "CH6", "title": "數位斷捨離", "icon": "unplug", "source": "ch6", "units": 5, "drills": 10 },
+    { "code": "CH7", "title": "獨處、無聊與思考", "icon": "footprints", "source": "ch7", "units": 5, "drills": 10 },
+    { "code": "CH8", "title": "高品質休閒與真實連結", "icon": "users", "source": "ch8", "units": 5, "drills": 10 },
+    { "code": "CH9", "title": "慢速生產力", "icon": "hourglass", "source": "ch9", "units": 5, "drills": 10 },
+    { "code": "CH10", "title": "過載、訊息與工作流程", "icon": "inbox", "source": "ch10", "units": 5, "drills": 10 },
+    { "code": "CH11", "title": "職涯資本", "icon": "hammer", "source": "ch11", "units": 5, "drills": 10 },
+    { "code": "CH12", "title": "深度心智與深度人生", "icon": "compass", "source": "ch12", "units": 5, "drills": 10 }
+  ],
+  "audit": {
+    "duration": { "lesson": { "min": "3:00", "max": "36:00" }, "drill": { "min": "2:00", "max": "36:00" } },
+    "driftSeconds": 30,
+    "minViews": 2000,
+    "metaCoverage": 1,
+    "drillsPerUnit": { "min": 2, "max": 2 },
+    "maxSharedVideos": 10,
+    "requireAssessment": ["concept", "system", "practice"],
+    "minAssessmentChars": 60,
+    "minCitations": 2,
+    "allowMissingUrls": 0
+  },
+  "evidenceAlias": {},
+  "stance": {
+    "title": "這門課的立場",
+    "intro": "這門課把 Cal Newport 公開講過的內容排成了一套系統，但排得好看不代表講得對。所以在開始之前，我們把三個最根本的主張丟去查文獻：注意力切換真的有殘留成本嗎？社群媒體真的在傷害你嗎？「專注力」真的能被訓練嗎？答案沒有課程行銷文案那麼乾脆——每一條結論都附 DOI，你可以自己去查。",
+    "verdicts": {
+      "concept-1": "注意力殘留有實驗證據，但研究規模小、效果量的實務意義常被高估。",
+      "concept-2": "社群媒體與心理健康的關聯非常弱，斷捨離的效益多半來自你換回去做的事。",
+      "concept-3": "專注確實可以透過練習變好，但那是任務特定的技能，不是可以練大的「專注力肌肉」。"
+    },
+    "outroTitle": "所以這門課該怎麼用",
+    "outro": "Cal Newport 最站得住腳的部分，是<strong>把工作結構化</strong>——固定的深度時段、寫下來的計畫、關掉的通知、更少的同時進行專案。這些做法有清楚的機制，也有實驗支持。比較站不住腳的，是把這一切包裝成「重建大腦」「奪回注意力」的<strong>因果宣稱</strong>：文獻裡的效果量小、研究多半是短期、樣本以大學生為主，而且幾乎沒有針對「深度工作系統」本身的對照試驗。把它當成一套<strong>值得一試的工作設計</strong>，不要當成神經科學。真正的注意力障礙、焦慮或成癮問題，請找專業人員。"
+  },
+  "landing": {
+    "howTitle": "怎麼用這門課",
+    "steps": [
+      {
+        "icon": "clipboard-check",
+        "title": "先自己檢查",
+        "body": "每個單元開頭都有一個你今天就能做的檢查——算一次真正的深度時數、翻一次螢幕使用時間、數一數手上同時進行幾個專案。沒有檢查過，後面的做法只是知識。"
+      },
+      {
+        "icon": "play",
+        "title": "看主課，再看做法",
+        "body": "一支主課講清楚原理，兩支延伸片段給你可以照做的版本或別人問過的實戰問題。全部是 Cal Newport 本人的公開影片、演講或訪談。"
+      },
+      {
+        "icon": "microscope",
+        "title": "順便看查核",
+        "body": "每一類做法都掛了心理學文獻與 DOI，證據不足或跟課程說法衝突的地方直接標成「證據互斥」。這是這門課跟一份播放清單最大的差別。"
+      }
+    ],
+    "stanceTitle": "開始之前，先知道這件事",
+    "stanceLede": "這不是 Cal Newport 授權或參與的課程，而且他的幾個核心主張在文獻上比書裡寫的弱。與其讓你走完才發現，不如一開始就講清楚。",
+    "chaptersTitle": "十二個章節，三篇的路線",
+    "ctaTitle": "準備好就從第一章開始",
+    "ctaLede": "{lessonUnits} 個單元、{videos} 支影片，全部免費、全部連到 YouTube 原片。進度存在你自己的瀏覽器裡，沒有帳號、沒有後端。"
+  },
+  "footer": {
+    "disclaimer": "<strong>免責聲明。</strong>本站是一份<strong>非官方的第三方策展</strong>，與 Cal Newport 本人、喬治城大學、其出版社或任何販售相關課程的機構<strong>沒有任何合作、授權或背書關係</strong>。所有內容為公開 YouTube 影片的連結與索引，本站不重製、不代管、不轉載影片內容，也不販售任何東西。單元標題、分章與說明文字是本站的整理與詮釋，不是 Cal Newport 的原話；如與原片內容有出入，<strong>以原片為準</strong>。課程中的「實證強度」註記由 Crossref 查得的原始文獻整理而成，反映的是查詢當下的文獻狀態，不是臨床或心理衛生建議。若你有持續的注意力困難、焦慮、憂鬱或成癮困擾，請諮詢專業人員，不要用生產力方法自行處理。",
+    "credits": "影片為 YouTube 上第三方創作者的作品，版權歸原頻道所有（多數為 Cal Newport 本人的頻道），本站僅提供連結。"
+  },
+  "llms": {
+    "summary": "這是一門免費、非官方的線上自學課程，把 Cal Newport 在 YouTube 上的公開影片、演講與訪談整理成 {lessonUnits} 個單元。本站與 Cal Newport 及其出版社無任何關係，只存連結與公開中繼資料，不重製影片。",
+    "stanceIntro": "課程的 {evidence} 個核心主張全部經 Crossref 文獻查核，結果照實呈現，包含對課程本身不利的部分：",
+    "stanceConclusion": "簡言之：把工作結構化（固定深度時段、寫下計畫、減少同時進行的專案）有清楚機制與實驗支持；但「重建大腦」「奪回注意力」等因果宣稱的效果量小、研究多為短期且樣本偏大學生，並無針對「深度工作系統」整體的對照試驗。",
+    "disclaimer": "本站為非官方第三方策展，與 Cal Newport 無任何授權或合作關係。內容為公開影片的連結與整理，不構成心理衛生建議。"
+  },
+  "discussions": {
+    "provider": "giscus",
+    "repo": "htlin222/deep-focus-course",
+    "repoId": "",
+    "category": "General",
+    "categoryId": "",
+    "mapping": "specific",
+    "termPrefix": "video",
+    "lang": "zh-TW",
+    "reactions": true,
+    "inputPosition": "top"
+  }
+}

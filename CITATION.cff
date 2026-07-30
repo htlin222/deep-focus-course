@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: 如果你引用了這門課，請照下面的資訊標註。
+title: "deep-focus-course：用 Cal Newport 公開影片策展的深度專注自學課"
+abstract: >-
+  一門非官方、免費的線上自學課程，把 Cal Newport 在 YouTube 上的公開影片、演講與訪談
+  整理成 12 章 60 個單元、180 支影片，並對 27 則核心主張做 Crossref 文獻查核，
+  結果照實呈現（含對課程本身不利的部分）。本專案與 Cal Newport 及其出版社無任何授權關係。
+type: software
+authors:
+  - family-names: Lin
+    given-names: Hsieh-Ting
+    orcid: "https://orcid.org/0000-0001-7228-9074"
+repository-code: "https://github.com/htlin222/deep-focus-course"
+url: "https://deep-focus-course.pages.dev"
+license: MIT
+keywords:
+  - deep work
+  - digital minimalism
+  - slow productivity
+  - curated course
+  - attention

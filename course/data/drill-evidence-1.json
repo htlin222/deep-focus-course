@@ -1,0 +1,413 @@
+{
+  "_meta": {
+    "source": "Crossref（api.crossref.org）",
+    "queried_at": "2026-07-31",
+    "note": "十類做法的文獻註記。DOI 一律取自 Crossref API 搜尋結果，title/journal/year 以 API 回傳值為準。evidence_grade 依實際文獻狀態填寫，未為課程美化；沒有直接研究的做法一律標 limited 並說明。"
+  },
+  "categories": [
+    {
+      "id": "attention-switching",
+      "name": "減少任務切換",
+      "evidence_grade": "moderate",
+      "summary": "切換成本本身是認知心理學裡重複性很高的發現：即使切換是可預期的，反應時間仍會變慢，任務越複雜代價越大。Leroy 的「注意力殘留」進一步顯示，前一個任務沒做完就切走，會拖累下一個任務的表現。但這些都是實驗室作業（幾秒到幾分鐘的簡單任務），把毫秒級的切換成本外推成「一天損失數小時」沒有直接證據。「重度多工者的注意力比較差」這一條更弱——原始研究是橫斷面的，後續複製與統合分析把效果縮到接近零。",
+      "citations": [
+        {
+          "doi": "10.1016/j.obhdp.2009.04.002",
+          "title": "Why is it so hard to do my work? The challenge of attention residue when switching between work tasks",
+          "journal": "Organizational Behavior and Human Decision Processes",
+          "year": 2009,
+          "url": "https://doi.org/10.1016/j.obhdp.2009.04.002",
+          "design": "lab-experiment",
+          "takeaway": "注意力殘留的原始研究：前一任務未完成就切換，會顯著拖累下一任務表現；但樣本為大學生、任務為短時作業。"
+        },
+        {
+          "doi": "10.1037/0096-1523.27.4.763",
+          "title": "Executive control of cognitive processes in task switching.",
+          "journal": "Journal of Experimental Psychology: Human Perception and Performance",
+          "year": 2001,
+          "url": "https://doi.org/10.1037/0096-1523.27.4.763",
+          "design": "lab-experiment",
+          "takeaway": "切換成本隨任務複雜度與陌生度上升，是「切換有代價」最常被引用的實驗依據。"
+        },
+        {
+          "doi": "10.1037/0096-3445.124.2.207",
+          "title": "Costs of a predictible switch between simple cognitive tasks.",
+          "journal": "Journal of Experimental Psychology: General",
+          "year": 1995,
+          "url": "https://doi.org/10.1037/0096-3445.124.2.207",
+          "design": "lab-experiment",
+          "takeaway": "即使切換完全可預期、也有充分準備時間，殘餘的切換成本依然存在。"
+        },
+        {
+          "doi": "10.1145/1357054.1357072",
+          "title": "The cost of interrupted work",
+          "journal": "Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems - CHI '08",
+          "year": 2008,
+          "url": "https://doi.org/10.1145/1357054.1357072",
+          "design": "field-experiment",
+          "takeaway": "被打斷的工作反而完成得更快，但伴隨更高的壓力、挫折與工作負荷感——代價不在時間而在心理成本。"
+        },
+        {
+          "doi": "10.5817/cp2021-2-7",
+          "title": "“Cognitive control in media multitaskers” ten years on: A meta-analysis",
+          "journal": "Cyberpsychology: Journal of Psychosocial Research on Cyberspace",
+          "year": 2021,
+          "url": "https://doi.org/10.5817/cp2021-2-7",
+          "design": "meta-analysis",
+          "takeaway": "十年後的統合分析顯示：媒體多工程度與認知控制的關聯小到可忽略，原始發現沒有穩健複製。"
+        }
+      ]
+    },
+    {
+      "id": "focus-blocks",
+      "name": "固定深度時段",
+      "evidence_grade": "limited",
+      "summary": "沒有任何對照試驗直接檢驗「每天排固定的深度工作時段」這個介入。支持它的證據都是間接的：打斷會提高壓力、同時進行太多專案會降低福祉與品質、高挑戰高技能的工作情境比較容易產生心流。這些都指向同一個方向，但方向不等於效果量。這門課把它列為值得一試的工作設計，不是被驗證過的處方。",
+      "citations": [
+        {
+          "doi": "10.1145/1357054.1357072",
+          "title": "The cost of interrupted work",
+          "journal": "Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems - CHI '08",
+          "year": 2008,
+          "url": "https://doi.org/10.1145/1357054.1357072",
+          "design": "field-experiment",
+          "takeaway": "保護不被打斷的時段，主要收益在降低壓力與負荷感，而不是直接把速度變快。"
+        },
+        {
+          "doi": "10.1016/j.ijproman.2006.02.010",
+          "title": "Project overload: An exploratory study of work and management in multi-project settings",
+          "journal": "International Journal of Project Management",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.ijproman.2006.02.010",
+          "design": "survey",
+          "takeaway": "同時背負太多專案與心理疲勞、品質瑕疵相關；限制同時進行的數量是深度時段能被保住的前提。"
+        },
+        {
+          "doi": "10.1002/job.337",
+          "title": "Flow experiences at work: for high need achievers alone?",
+          "journal": "Journal of Organizational Behavior",
+          "year": 2005,
+          "url": "https://doi.org/10.1002/job.337",
+          "design": "diary-study",
+          "takeaway": "工作中的心流與資源充足、挑戰適配有關，不是靠意志力硬撐出來的狀態。"
+        }
+      ]
+    },
+    {
+      "id": "planning",
+      "name": "書面計畫與時間分塊",
+      "evidence_grade": "moderate",
+      "summary": "「先寫下來再做」這件事的證據相對紮實。實作意圖（在什麼情境做什麼）的效果量在中等到大之間；把未完成的目標寫成具體計畫，能消除那些目標造成的侵入性思緒；明確而有挑戰的目標比「盡力而為」帶來更好的表現。但這些研究支持的是「寫下具體計畫」，不是 Cal Newport 那一套特定的日／週／季三層格式——沒有研究比較過不同計畫格式的優劣。",
+      "citations": [
+        {
+          "doi": "10.1037/a0024192",
+          "title": "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals.",
+          "journal": "Journal of Personality and Social Psychology",
+          "year": 2011,
+          "url": "https://doi.org/10.1037/a0024192",
+          "design": "lab-experiment",
+          "takeaway": "未完成的目標會持續佔用注意力，但只要寫成具體計畫，這個效應就消失——關機儀式與計畫系統的核心機制。"
+        },
+        {
+          "doi": "10.1037/0003-066x.54.7.493",
+          "title": "Implementation intentions: Strong effects of simple plans.",
+          "journal": "American Psychologist",
+          "year": 1999,
+          "url": "https://doi.org/10.1037/0003-066x.54.7.493",
+          "design": "review",
+          "takeaway": "把「何時、何地、做什麼」寫死，比單純下定決心有效得多。"
+        },
+        {
+          "doi": "10.1037/0003-066x.57.9.705",
+          "title": "Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+          "journal": "American Psychologist",
+          "year": 2002,
+          "url": "https://doi.org/10.1037/0003-066x.57.9.705",
+          "design": "review",
+          "takeaway": "具體且有難度的目標優於模糊的「盡力就好」，但需要回饋與承諾才成立。"
+        }
+      ]
+    },
+    {
+      "id": "shutdown",
+      "name": "收尾儀式與工作／生活界線",
+      "evidence_grade": "moderate",
+      "summary": "下班後能不能在心理上離開工作（psychological detachment）與福祉、疲勞恢復的關聯是職業健康心理學裡相當穩定的發現，也有測量工具與大量實證。把未完成的事寫成計畫能減少侵入性思緒，是關機儀式最直接的機制證據。比較弱的是「一句固定咒語」這種具體形式——那是操作上的便利，不是被檢驗過的變項。",
+      "citations": [
+        {
+          "doi": "10.1037/1076-8998.12.3.204",
+          "title": "The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work.",
+          "journal": "Journal of Occupational Health Psychology",
+          "year": 2007,
+          "url": "https://doi.org/10.1037/1076-8998.12.3.204",
+          "design": "scale-development",
+          "takeaway": "心理抽離、放鬆、掌控感與精熟是下班恢復的四個成分，其中抽離與福祉關聯最強。"
+        },
+        {
+          "doi": "10.1037/a0024192",
+          "title": "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals.",
+          "journal": "Journal of Personality and Social Psychology",
+          "year": 2011,
+          "url": "https://doi.org/10.1037/a0024192",
+          "design": "lab-experiment",
+          "takeaway": "寫下計畫就足以消除未完成目標的認知殘留，不需要真的把事情做完。"
+        },
+        {
+          "doi": "10.1080/1359432x.2022.2161371",
+          "title": "The influence of boundary management preference on work–nonwork policy effectiveness: a systematic review and future research agenda",
+          "journal": "European Journal of Work and Organizational Psychology",
+          "year": 2022,
+          "url": "https://doi.org/10.1080/1359432x.2022.2161371",
+          "design": "systematic-review",
+          "takeaway": "界線管理的效果因人而異：偏好整合型的人被強迫分離，未必更好。"
+        }
+      ]
+    },
+    {
+      "id": "digital-declutter",
+      "name": "移除或限制數位工具",
+      "evidence_grade": "contested",
+      "summary": "這是整門課證據最分裂的一類。橫斷面的大型資料顯示，數位科技使用與青少年福祉的關聯小到近乎無意義（約 0.4% 的變異，與吃馬鈴薯相當）；但幾個隨機化的減量或停用實驗確實測到福祉改善——只是效果量也偏小（Facebook 停用四週約 0.09 個標準差），而且往往伴隨資訊獲取變差。「手機放在旁邊就變笨」的原始研究廣為流傳，但後續統合分析認為效果非常小、不穩健。誠實的結論是：減少使用可能有幫助，但幫助的來源比較像是「你把時間換去做了別的事」，而不是「大腦被修復了」。",
+      "citations": [
+        {
+          "doi": "10.1038/s41562-018-0506-1",
+          "title": "The association between adolescent well-being and digital technology use",
+          "journal": "Nature Human Behaviour",
+          "year": 2019,
+          "url": "https://doi.org/10.1038/s41562-018-0506-1",
+          "design": "specification-curve-analysis",
+          "takeaway": "三份大型資料集、超過三十五萬名青少年：科技使用只解釋約 0.4% 的福祉變異，與戴眼鏡、吃馬鈴薯同一量級。"
+        },
+        {
+          "doi": "10.1257/aer.20190658",
+          "title": "The Welfare Effects of Social Media",
+          "journal": "American Economic Review",
+          "year": 2020,
+          "url": "https://doi.org/10.1257/aer.20190658",
+          "design": "rct",
+          "takeaway": "付費讓兩千多人停用 Facebook 四週：主觀福祉小幅改善、政治極化下降，但新聞知識也下降，實驗後使用量持續降低。"
+        },
+        {
+          "doi": "10.1521/jscp.2018.37.10.751",
+          "title": "No More FOMO: Limiting Social Media Decreases Loneliness and Depression",
+          "journal": "Journal of Social and Clinical Psychology",
+          "year": 2018,
+          "url": "https://doi.org/10.1521/jscp.2018.37.10.751",
+          "design": "rct",
+          "takeaway": "限制每平台每天十分鐘、為期三週，孤獨與憂鬱下降；但樣本僅 143 名大學生、期間短。"
+        },
+        {
+          "doi": "10.1080/15213269.2023.2286647",
+          "title": "Does the Mere Presence of a Smartphone Impact Cognitive Performance? A Meta-Analysis of the “Brain Drain Effect”",
+          "journal": "Media Psychology",
+          "year": 2023,
+          "url": "https://doi.org/10.1080/15213269.2023.2286647",
+          "design": "meta-analysis",
+          "takeaway": "統合分析後，「手機在旁邊就佔用認知資源」的效果非常小，且與發表偏誤難以區分。"
+        },
+        {
+          "doi": "10.1016/j.chb.2025.108624",
+          "title": "Planning a digital detox: Findings from a randomized controlled trial to reduce problematic social media use",
+          "journal": "Computers in Human Behavior",
+          "year": 2025,
+          "url": "https://doi.org/10.1016/j.chb.2025.108624",
+          "design": "rct",
+          "takeaway": "有計畫的斷捨離比單純「少用」有效，支持課程「要設計替代活動」的做法。"
+        }
+      ]
+    },
+    {
+      "id": "boredom-solitude",
+      "name": "無聊、獨處與思緒漫遊",
+      "evidence_grade": "limited",
+      "summary": "「擁抱無聊會提升創意」有實驗支持，但那是單一實驗室研究、樣本小、創意的操作型定義很窄。比較有力的是反面證據：Wilson 等人發現許多人寧可電擊自己也不願獨處思考六到十五分鐘——這說明「無法忍受留白」是真的，但不等於忍受它就會變得更專注。散步能提升發散性思考的效果倒是相當明確。整體而言方向合理，證據不厚。",
+      "citations": [
+        {
+          "doi": "10.1080/10400419.2014.901073",
+          "title": "Does Being Bored Make Us More Creative?",
+          "journal": "Creativity Research Journal",
+          "year": 2014,
+          "url": "https://doi.org/10.1080/10400419.2014.901073",
+          "design": "lab-experiment",
+          "takeaway": "誘發無聊後，受試者在發散性思考作業上的表現提升；但樣本小、只測單一創意指標。"
+        },
+        {
+          "doi": "10.1126/science.1250830",
+          "title": "Just think: The challenges of the disengaged mind",
+          "journal": "Science",
+          "year": 2014,
+          "url": "https://doi.org/10.1126/science.1250830",
+          "design": "lab-experiment",
+          "takeaway": "相當比例的受試者寧願給自己電擊，也不願獨自安靜思考六到十五分鐘。"
+        },
+        {
+          "doi": "10.1037/a0036577",
+          "title": "Give your ideas some legs: The positive effect of walking on creative thinking.",
+          "journal": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+          "year": 2014,
+          "url": "https://doi.org/10.1037/a0036577",
+          "design": "lab-experiment",
+          "takeaway": "走路時的發散性思考表現大幅優於坐著，效果在走完之後仍延續一段時間。"
+        },
+        {
+          "doi": "10.1146/annurev-psych-010814-015331",
+          "title": "The Science of Mind Wandering: Empirically Navigating the Stream of Consciousness",
+          "journal": "Annual Review of Psychology",
+          "year": 2015,
+          "url": "https://doi.org/10.1146/annurev-psych-010814-015331",
+          "design": "review",
+          "takeaway": "思緒漫遊同時關聯到當下表現下降與未來規劃、創意——它不是單純的缺陷。"
+        }
+      ]
+    },
+    {
+      "id": "leisure",
+      "name": "主動型休閒與嗜好",
+      "evidence_grade": "moderate",
+      "summary": "休閒投入與主觀福祉的正向關聯在統合分析中相當穩定，社會連結與存活率的關聯更是社會流行病學裡效果量很大的發現之一。比較站不住腳的是課程常見的強版本——「主動創造型休閒一定優於被動消費型」。這個對比在文獻裡沒有被乾淨地檢驗過，多數研究測的是休閒的量與意義感，不是課程說的那種類型學。",
+      "citations": [
+        {
+          "doi": "10.1037/a0038508",
+          "title": "Leisure engagement and subjective well-being: A meta-analysis.",
+          "journal": "Psychological Bulletin",
+          "year": 2015,
+          "url": "https://doi.org/10.1037/a0038508",
+          "design": "meta-analysis",
+          "takeaway": "休閒投入與主觀福祉呈中等正相關，且休閒的「意義」比單純時數更重要。"
+        },
+        {
+          "doi": "10.1371/journal.pmed.1000316",
+          "title": "Social Relationships and Mortality Risk: A Meta-analytic Review",
+          "journal": "PLoS Medicine",
+          "year": 2010,
+          "url": "https://doi.org/10.1371/journal.pmed.1000316",
+          "design": "meta-analysis",
+          "takeaway": "社會連結較強者的存活機率高出約 50%，效果量可與戒菸相比。"
+        },
+        {
+          "doi": "10.1111/1468-5914.00204",
+          "title": "Solitude: An Exploration of Benefits of Being Alone",
+          "journal": "Journal for the Theory of Social Behaviour",
+          "year": 2003,
+          "url": "https://doi.org/10.1111/1468-5914.00204",
+          "design": "conceptual-analysis",
+          "takeaway": "獨處的益處取決於是否出於自願；被迫的獨處與自選的獨處是兩件事。"
+        }
+      ]
+    },
+    {
+      "id": "communication",
+      "name": "溝通協定與會議削減",
+      "evidence_grade": "moderate",
+      "summary": "把信件集中在固定時段檢查，在隨機分派實驗裡確實降低了日常壓力；長時間掛在信箱上與較高的壓力指標相關；會議負荷與當日疲勞、工作負荷感的關聯也有實證。這一類做法是整門課裡「機制清楚、又真的有人測過」的部分。限制是：研究多為短期、樣本以白領為主，而且「取消九成會議」這種強度從未被實際檢驗。",
+      "citations": [
+        {
+          "doi": "10.1016/j.chb.2014.11.005",
+          "title": "Checking email less frequently reduces stress",
+          "journal": "Computers in Human Behavior",
+          "year": 2015,
+          "url": "https://doi.org/10.1016/j.chb.2014.11.005",
+          "design": "rct",
+          "takeaway": "隨機分派限制每天只檢查三次信箱，兩週內顯著降低日常壓力。"
+        },
+        {
+          "doi": "10.1145/2858036.2858262",
+          "title": "Email Duration, Batching and Self-interruption",
+          "journal": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems",
+          "year": 2016,
+          "url": "https://doi.org/10.1145/2858036.2858262",
+          "design": "field-study",
+          "takeaway": "以感測器與電腦紀錄追蹤：花在 email 上的總時長與壓力相關，批次處理的模式較不受影響。"
+        },
+        {
+          "doi": "10.1037/1089-2699.9.1.58",
+          "title": "Meetings and More Meetings: The Relationship Between Meeting Load and the Daily Well-Being of Employees.",
+          "journal": "Group Dynamics: Theory, Research, and Practice",
+          "year": 2005,
+          "url": "https://doi.org/10.1037/1089-2699.9.1.58",
+          "design": "diary-study",
+          "takeaway": "當日會議越多，疲勞與工作負荷感越高；效果因人格特質而異。"
+        }
+      ]
+    },
+    {
+      "id": "workload",
+      "name": "降低同時進行的工作量",
+      "evidence_grade": "moderate",
+      "summary": "「少做事」是《慢速生產力》三原則裡證據最好的一條。專案過載與心理疲勞、品質瑕疵的關聯有實證；倦怠研究的主流結論也是：倦怠主要由工作情境（工作量、控制感、回饋、公平）決定，而不是個人韌性不足。這一點跟坊間「靠休假與自我照顧解決倦怠」的建議剛好相反，而 Cal Newport 站在文獻這一邊。",
+      "citations": [
+        {
+          "doi": "10.1016/j.ijproman.2006.02.010",
+          "title": "Project overload: An exploratory study of work and management in multi-project settings",
+          "journal": "International Journal of Project Management",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.ijproman.2006.02.010",
+          "design": "survey",
+          "takeaway": "同時進行的專案數超過負荷時，心理疲勞上升、品質下降——不是靠更努力能補的。"
+        },
+        {
+          "doi": "10.1002/wps.20311",
+          "title": "Understanding the burnout experience: recent research and its implications for psychiatry",
+          "journal": "World Psychiatry",
+          "year": 2016,
+          "url": "https://doi.org/10.1002/wps.20311",
+          "design": "review",
+          "takeaway": "倦怠的主要驅動力在工作情境而非個人特質，介入應該從工作設計著手。"
+        },
+        {
+          "doi": "10.1037/1076-8998.12.3.204",
+          "title": "The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work.",
+          "journal": "Journal of Occupational Health Psychology",
+          "year": 2007,
+          "url": "https://doi.org/10.1037/1076-8998.12.3.204",
+          "design": "scale-development",
+          "takeaway": "工作量不變的情況下，恢復經驗很難成立——休假不會修好結構問題。"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "主動學習與刻意練習",
+      "evidence_grade": "strong",
+      "summary": "這一類的證據品質是全課最高的，但方向跟課程強調的重點不完全一致。真正被反覆驗證的是「提取練習」與「分散練習」——合上書把記得的寫出來，效果遠勝過重讀與劃線。至於「刻意練習決定專家表現」這個更有名的主張，統合分析顯示它只解釋遊戲約 21%、音樂約 18%、專業領域約 1% 的表現變異，遠低於一萬小時說法給人的印象。",
+      "citations": [
+        {
+          "doi": "10.1111/j.1467-9280.2006.01693.x",
+          "title": "Test-Enhanced Learning",
+          "journal": "Psychological Science",
+          "year": 2006,
+          "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+          "design": "lab-experiment",
+          "takeaway": "考自己比重讀更能維持長期記憶，且差距隨時間拉長而擴大。"
+        },
+        {
+          "doi": "10.1177/1529100612453266",
+          "title": "Improving Students’ Learning With Effective Learning Techniques",
+          "journal": "Psychological Science in the Public Interest",
+          "year": 2013,
+          "url": "https://doi.org/10.1177/1529100612453266",
+          "design": "systematic-review",
+          "takeaway": "十種學習法評比：練習測驗與分散練習被評為高效用，重讀與劃線被評為低效用。"
+        },
+        {
+          "doi": "10.1037/0033-295x.100.3.363",
+          "title": "The role of deliberate practice in the acquisition of expert performance.",
+          "journal": "Psychological Review",
+          "year": 1993,
+          "url": "https://doi.org/10.1037/0033-295x.100.3.363",
+          "design": "review",
+          "takeaway": "刻意練習框架的原始論文：有回饋、超出舒適區的結構化練習是專家養成的核心。"
+        },
+        {
+          "doi": "10.1177/0956797614535810",
+          "title": "Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions",
+          "journal": "Psychological Science",
+          "year": 2014,
+          "url": "https://doi.org/10.1177/0956797614535810",
+          "design": "meta-analysis",
+          "takeaway": "刻意練習解釋的變異遠低於通俗說法：專業領域僅約 1%，一萬小時法則被高估。"
+        }
+      ]
+    }
+  ]
+}

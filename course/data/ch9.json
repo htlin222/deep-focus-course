@@ -1,0 +1,220 @@
+{
+  "chapter": "CH9",
+  "units": [
+    {
+      "id": "ch9-u1",
+      "name": "慢速生產力總覽",
+      "type": "concept",
+      "assessment": "數一數你手上同時進行、而且別人會來追進度的專案有幾個。超過三個的話，這一章的第一條原則就是為你寫的——先把這個數字記在紙上，讀完這一章再算一次。",
+      "tight": [
+        "把「慢」理解成做得比較少也比較差",
+        "以為這只適合自由工作者"
+      ],
+      "weak": [
+        "能說出三條原則各自解決什麼問題",
+        "知道慢速針對的是工作量而非速度"
+      ],
+      "lesson": {
+        "title": "Core Idea:  Slow Productivity",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=zZwPyB20lxg",
+        "duration": "25:19",
+        "why": "《慢速生產力》的作者導讀，把三條原則與偽生產力的對照講完整"
+      },
+      "drills": [
+        {
+          "name": "《慢速生產力》核心訊息圖解",
+          "kind": "idea",
+          "target": "全書結構",
+          "dose": "九分鐘",
+          "title": "SLOW PRODUCTIVITY by Cal Newport | Core Message",
+          "channel": "Productivity Game",
+          "url": "https://www.youtube.com/watch?v=TJFuTZqAX5E",
+          "duration": "9:08"
+        },
+        {
+          "name": "六分鐘版的慢速生產力",
+          "kind": "idea",
+          "target": "快速入門",
+          "dose": "六分鐘",
+          "title": "Slow Productivity | Cal Newport",
+          "channel": "Leadership Lessons | Big Think+",
+          "url": "https://www.youtube.com/watch?v=v520wFzpAd0",
+          "duration": "6:14"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u2",
+      "name": "少做事的數學",
+      "type": "concept",
+      "assessment": "挑三個你手上的專案，各自估一下它每週產生多少「跟實際推進無關」的溝通、協調與等待時間。把三個數字加總，你多半會發現真正吃掉時間的不是工作本身。",
+      "tight": [
+        "以為接更多事等於產出更多",
+        "沒算過每個專案的隱藏管理成本"
+      ],
+      "weak": [
+        "能估算同時進行專案的額外成本",
+        "知道拒絕是產出策略的一部分"
+      ],
+      "lesson": {
+        "title": "The Surprising Math of Doing Less | Deep Questions Podcast with Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=YtYM7DmQq2A",
+        "duration": "13:09",
+        "why": "用很直觀的算式說明為什麼同時做更多事會讓總產出下降，是本章最有說服力的一支"
+      },
+      "drills": [
+        {
+          "name": "慢速生產力是忙碌流行病的解藥（Tim Ferriss）",
+          "kind": "idea",
+          "target": "定位",
+          "dose": "六分鐘",
+          "title": "Slow Productivity: The Antidote to the Epidemic of Busyness | Cal Newport on The  Tim Ferriss Show",
+          "channel": "Tim Ferriss",
+          "url": "https://www.youtube.com/watch?v=21P9NWhaY5A",
+          "duration": "6:13"
+        },
+        {
+          "name": "給過載學生的忠告：你得做更少",
+          "kind": "qa",
+          "target": "取捨實例",
+          "dose": "八分鐘",
+          "title": "Tough Love for an Overwhelmed Student: You Have To Do Less! | Deep Questions with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=QXt9F3qHU-I",
+          "duration": "7:53"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u3",
+      "name": "自然的節奏",
+      "type": "practice",
+      "assessment": "回看過去三個月，找出你產出最好的那兩週跟最差的那兩週。它們前後發生了什麼？多數人會發現高產出的前面都有一段比較鬆的時間。",
+      "tight": [
+        "每一週都用同樣的強度推進",
+        "把淡季當成偷懶"
+      ],
+      "weak": [
+        "能接受工作有高低起伏",
+        "知道長期產出靠節奏不是靠衝刺"
+      ],
+      "lesson": {
+        "title": "The Second Principle of Slow Productivity | Deep Questions with Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=NXjIn3hc9Zg",
+        "duration": "6:11",
+        "why": "Cal Newport 專門解釋第二條原則，把「自然節奏」跟一般的休息建議區分開來"
+      },
+      "drills": [
+        {
+          "name": "他怎麼看標準的一週四十小時",
+          "kind": "qa",
+          "target": "工時制度",
+          "dose": "十分鐘",
+          "title": "What Do You Think of the Standard 40-hr Work Week? | Deep Questions with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=09tBjeykK2M",
+          "duration": "10:18"
+        },
+        {
+          "name": "一週四天能解決倦怠嗎",
+          "kind": "qa",
+          "target": "制度改革",
+          "dose": "十四分鐘",
+          "title": "Will 4-Day Weeks Solve Burnout? | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=8x14m59jfnw",
+          "duration": "13:31"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u4",
+      "name": "執著於品質",
+      "type": "practice",
+      "assessment": "寫下你希望三年後別人是因為什麼事情來找你。接著誠實估算：這一季你有多少小時真的花在把那件事做得更好上面？兩個答案之間的落差，就是你該調整的方向。",
+      "tight": [
+        "用產量證明自己的價值",
+        "沒有一項技能練到別人願意付出代價"
+      ],
+      "weak": [
+        "能指出自己要押注的那項品質",
+        "知道品質標準會反過來簡化你的行程"
+      ],
+      "lesson": {
+        "title": "Cal Newport on slow productivity, doing fewer things, obsessing over quality",
+        "channel": "David Pakman Show",
+        "url": "https://www.youtube.com/watch?v=grBdVwNonIA",
+        "duration": "21:45",
+        "why": "訪談形式把三條原則走一遍，其中對「執著品質」的追問最深入"
+      },
+      "drills": [
+        {
+          "name": "《慢速生產力》摘要與三原則",
+          "kind": "idea",
+          "target": "複習",
+          "dose": "九分鐘",
+          "title": "Slow Productivity Summary (Cal Newport): Stop Burnout & Achieve More With This 3-Pillar Philosophy 🏆",
+          "channel": "Four Minute Books",
+          "url": "https://www.youtube.com/watch?v=djLF1rNolMk",
+          "duration": "8:25"
+        },
+        {
+          "name": "他自己寫文章的工作流程",
+          "kind": "howto",
+          "target": "品質實例",
+          "dose": "十分鐘",
+          "title": "The Secrets To Cal Newport's Article Writing System | Weekly Update #6",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=gErbZ3A6ozM",
+          "duration": "10:01"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u5",
+      "name": "慢速生產力下的待辦清單",
+      "type": "system",
+      "assessment": "把你的待辦清單分成兩欄：正在做的（最多三項）跟排隊的。其他全部移到排隊欄。一週後看看，你有沒有真的維持住那個三項的上限。",
+      "tight": [
+        "清單越長越焦慮卻不敢刪",
+        "所有事情都標成重要"
+      ],
+      "weak": [
+        "能維持一份「正在做」與「等著做」分開的清單",
+        "知道限制同時進行的數量比排序有用"
+      ],
+      "lesson": {
+        "title": "Should You Ditch Your To-Do List With a Slow Productivity Mindset?",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=FfBHzLgC3qs",
+        "duration": "6:17",
+        "why": "直接處理「慢速生產力要不要丟掉待辦清單」這個實務問題，答案比想像中細"
+      },
+      "drills": [
+        {
+          "name": "用慢速心態消除壓力大的工作日",
+          "kind": "howto",
+          "target": "日常應用",
+          "dose": "六分鐘",
+          "title": "Eliminate Stressful Work Days With A \"Slow Productivity\" Mindset",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=6aUZviSHcUM",
+          "duration": "5:33"
+        },
+        {
+          "name": "完美主義讓計畫超載怎麼辦",
+          "kind": "qa",
+          "target": "計畫膨脹",
+          "dose": "五分鐘",
+          "title": "How Can I Prevent Perfectionism from Overloading My Value and Strategic Plans?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=yKjmSpH7Dss",
+          "duration": "4:38"
+        }
+      ]
+    }
+  ]
+}

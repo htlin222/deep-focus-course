@@ -1,0 +1,220 @@
+{
+  "chapter": "CH11",
+  "units": [
+    {
+      "id": "ch11-u1",
+      "name": "別追隨你的熱情",
+      "type": "concept",
+      "assessment": "回想你目前最擅長的一件事，寫下你在還不擅長它的時候是什麼感覺。多數人會發現熱情是在變強之後才出現的——這就是這一章的整個論點。",
+      "tight": [
+        "等找到熱情才願意投入",
+        "把「不喜歡現在的工作」當成該換工作的證據"
+      ],
+      "weak": [
+        "理解熱情多半是結果不是前提",
+        "知道稀有而有價值的能力才是籌碼"
+      ],
+      "lesson": {
+        "title": "Core Idea:  Don't Follow Your Passion",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=sjiP6sDyN-E",
+        "duration": "12:16",
+        "why": "《做喜歡的事不如做擅長的事》核心觀念版，是他最反直覺也最被誤解的一個主張"
+      },
+      "drills": [
+        {
+          "name": "「追隨熱情」是壞建議（99U 演講）",
+          "kind": "idea",
+          "target": "完整論證",
+          "dose": "二十二分鐘",
+          "title": "Cal Newport: \"Follow Your Passion\" Is Bad Advice",
+          "channel": "99U",
+          "url": "https://www.youtube.com/watch?v=IIMu1PGbG-0",
+          "duration": "21:59"
+        },
+        {
+          "name": "回應巨石強森與 Joe Rogan 的熱情論",
+          "kind": "idea",
+          "target": "反駁",
+          "dose": "九分鐘",
+          "title": "Confronting The Rock & Joe Rogan On The Advice of \"Follow Your Passion\" | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=6hXODyARKNU",
+          "duration": "9:21"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u2",
+      "name": "工匠心態與稀有價值",
+      "type": "concept",
+      "assessment": "寫下你目前這份工作能讓你確實變強的那一項能力，越具體越好。如果一項都寫不出來，問題可能不是這份工作不適合你，而是你從來沒有在裡面設定要變強的東西。",
+      "tight": [
+        "先問工作能給我什麼",
+        "把「這份工作不適合我」當成第一個結論"
+      ],
+      "weak": [
+        "能指出自己正在累積哪一種職涯資本",
+        "知道自主權需要用能力交換"
+      ],
+      "lesson": {
+        "title": "Be Rare & Valuable: SO GOOD THEY CAN'T IGNORE YOU by Cal Newport",
+        "channel": "Productivity Game",
+        "url": "https://www.youtube.com/watch?v=DFjTD8v7xuw",
+        "duration": "8:05",
+        "why": "把職涯資本理論濃縮成八分鐘，適合先建立框架再看長版"
+      },
+      "drills": [
+        {
+          "name": "為什麼追隨熱情是糟糕的建議（長版）",
+          "kind": "idea",
+          "target": "深入",
+          "dose": "二十分鐘",
+          "title": "Follow Your Passion Is Terrible Advice. Here's Why... | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=xMQxK4vusAE",
+          "duration": "20:03"
+        },
+        {
+          "name": "《做喜歡的事不如做擅長的事》摘要與評論",
+          "kind": "idea",
+          "target": "書評",
+          "dose": "九分鐘",
+          "title": "So Good They Can't Ignore You Summary & Review (Cal Newport)",
+          "channel": "Successful By Design",
+          "url": "https://www.youtube.com/watch?v=CCqGIe4cfqU",
+          "duration": "9:16"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u3",
+      "name": "刻意練習用在知識工作",
+      "type": "practice",
+      "assessment": "挑一項你想變強的專業能力，設計一次刻意練習：明確的難度、明確的回饋來源、四十五分鐘。做完後寫下你在哪裡卡住——那就是下一次的起點。",
+      "tight": [
+        "把「做很多」當成練習",
+        "只做已經會的事"
+      ],
+      "weak": [
+        "能設計一個超出舒適區的練習",
+        "知道回饋迴路是練習的必要條件"
+      ],
+      "lesson": {
+        "title": "Tips For Doing Hard Things | DEEP DIVE | Episode 178",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=Zv5GVT4FCvE",
+        "duration": "15:05",
+        "why": "談怎麼做困難的事，是他把刻意練習落到知識工作最具體的一次"
+      },
+      "drills": [
+        {
+          "name": "程式設計的刻意練習長什麼樣",
+          "kind": "qa",
+          "target": "領域實例",
+          "dose": "六分鐘",
+          "title": "What Does Deliberate Practice Look Like for Computer Programming?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=a9jBcoMpquE",
+          "duration": "6:06"
+        },
+        {
+          "name": "怎麼練習、建立技能與心流的角色（Huberman）",
+          "kind": "idea",
+          "target": "機制",
+          "dose": "九分鐘",
+          "title": "How to Practice, Build Skills & the Role of Flow State | Dr. Cal Newport & Dr. Andrew Huberman",
+          "channel": "Huberman Lab Clips",
+          "url": "https://www.youtube.com/watch?v=nEN2ceXyi-s",
+          "duration": "8:28"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u4",
+      "name": "生活型態導向的職涯規劃",
+      "type": "system",
+      "assessment": "寫下你希望五年後一個普通的星期三長什麼樣子——幾點起床、在哪裡、跟誰一起、整天做些什麼。寫完之後再看你目前的職涯路徑，它會不會真的把你帶到那個星期三。",
+      "tight": [
+        "先選職稱再想生活",
+        "把收入當成唯一的比較基準"
+      ],
+      "weak": [
+        "能先描述想要的日常再反推工作",
+        "知道自主權與地點自由也是報酬"
+      ],
+      "lesson": {
+        "title": "Using Lifestyle-Centric Career Planning To Pursue A Life You Love",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=TpSlr5TYAEw",
+        "duration": "13:53",
+        "why": "把「生活型態導向規劃」講成一套可以照著做的流程，是職涯篇最實用的一支"
+      },
+      "drills": [
+        {
+          "name": "給剛開始工作的人的建議",
+          "kind": "howto",
+          "target": "起步階段",
+          "dose": "十四分鐘",
+          "title": "Cal Newport's Top Advice For Young People Starting Their Careers",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=TI0szDvBNSA",
+          "duration": "13:49"
+        },
+        {
+          "name": "該留在這份工作還是離開",
+          "kind": "qa",
+          "target": "去留判斷",
+          "dose": "六分鐘",
+          "title": "Should I Stay Or Leave My Job? | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=xUP7kSKu6aU",
+          "duration": "6:12"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u5",
+      "name": "AI 時代的職涯與知識工作",
+      "type": "concept",
+      "assessment": "把你的工作拆成十個具體任務，逐一標記現在的語言模型大概能替你做到幾成。盤點完之後，你會得到一份屬於自己的清單，比任何一篇關於未來的預測文章都更有用。",
+      "tight": [
+        "以為所有知識工作都即將被取代",
+        "用恐慌代替具體的能力盤點"
+      ],
+      "weak": [
+        "能區分被自動化的任務與被取代的職業",
+        "知道哪些能力在自動化下更值錢"
+      ],
+      "lesson": {
+        "title": "Has AI Changed Work Forever? Not Really... | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=Ijt8lV6b7QY",
+        "duration": "18:13",
+        "why": "他對「AI 已經改變工作」這個說法的實證檢視，論據與結論都比多數討論克制"
+      },
+      "drills": [
+        {
+          "name": "AI 會自動化所有辦公室工作嗎",
+          "kind": "idea",
+          "target": "深入分析",
+          "dose": "三十三分鐘",
+          "title": "Is AI About to Automate Every Office Job? (Not a Chance)",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=hiSAzOpUDA4",
+          "duration": "33:03"
+        },
+        {
+          "name": "AI 正在吃掉入門職缺嗎",
+          "kind": "idea",
+          "target": "勞動市場",
+          "dose": "十六分鐘",
+          "title": "Is AI Stealing Entry-Level Jobs? (Economists Doubt It) | AI Reality Check",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=XygyGzgrL48",
+          "duration": "16:09"
+        }
+      ]
+    }
+  ]
+}

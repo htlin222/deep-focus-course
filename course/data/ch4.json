@@ -1,0 +1,220 @@
+{
+  "chapter": "CH4",
+  "units": [
+    {
+      "id": "ch4-u1",
+      "name": "任務組織的最小可行做法",
+      "type": "system",
+      "assessment": "把你現在的待辦清單全部倒出來，分成三堆：五分鐘內能做完的、需要一段深度時間的、其實不該由你做的。第三堆處理掉，你就知道清單為什麼一直清不完。",
+      "tight": [
+        "所有事情都放在一份長長的待辦清單",
+        "重要的事跟五分鐘雜事混在一起"
+      ],
+      "weak": [
+        "能把任務依脈絡分開存放",
+        "知道待辦清單只是原料不是計畫"
+      ],
+      "lesson": {
+        "title": "Cal Newport's Best Practice To Organize Your Tasks",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=in3zft1iAPQ",
+        "duration": "5:41",
+        "why": "Cal Newport 給出他認為最基本、也最少人真的做到的任務組織原則"
+      },
+      "drills": [
+        {
+          "name": "待辦清單癱瘓怎麼解",
+          "kind": "howto",
+          "target": "清單過載",
+          "dose": "十二分鐘",
+          "title": "Overcoming To-Do List Paralysis | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=a_kuyEzkIq8",
+          "duration": "12:26"
+        },
+        {
+          "name": "怎麼把資訊從收件匣裡撈出來",
+          "kind": "howto",
+          "target": "資訊流",
+          "dose": "五分鐘",
+          "title": "Cal Newport’s System for Getting Information Out of His Inbox",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=FiLYCq0SfN4",
+          "duration": "5:12"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u2",
+      "name": "專案與待辦：看板系統",
+      "type": "system",
+      "assessment": "挑一個你手上最久沒進展的專案，寫下它「下一個具體動作」是什麼。如果寫不出一個十五分鐘內能開始的動作，這就是它停住的原因。",
+      "tight": [
+        "把專案當成一條待辦事項",
+        "看板欄位太多，維護成本高過效益"
+      ],
+      "weak": [
+        "能區分專案與下一步行動",
+        "有一個每週會被真的打開的看板"
+      ],
+      "lesson": {
+        "title": "How Do You Manage Projects Vs. Detailed To Do's On Your Board System?",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=6SvO8rBJpb4",
+        "duration": "5:43",
+        "why": "直接回答專案層級與細項待辦怎麼在同一個看板上共存，是很多人卡住的地方"
+      },
+      "drills": [
+        {
+          "name": "他實際怎麼用 Trello 管理訊息過載",
+          "kind": "howto",
+          "target": "工具實作",
+          "dose": "四分鐘",
+          "title": "How Cal Newport manages his email overload with Trello",
+          "channel": "Workflows of exceptional performers",
+          "url": "https://www.youtube.com/watch?v=2nlKF0RQLUw",
+          "duration": "4:01"
+        },
+        {
+          "name": "他自己最常用的十個工作流程",
+          "kind": "howto",
+          "target": "流程清單",
+          "dose": "八分鐘",
+          "title": "What Are Your Top 10 Workflows?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=qnXRzlOGHns",
+          "duration": "7:46"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u3",
+      "name": "多尺度計畫：讓長期目標接得上今天",
+      "type": "system",
+      "assessment": "寫下一個你今年真的在乎的目標。然後往下推：這一季要完成什麼？這一週要做哪一步？今天要花多久？如果任何一層推不下去，那個目標目前只是願望。",
+      "tight": [
+        "年度目標寫完就不再看",
+        "每日計畫跟長期方向完全脫節"
+      ],
+      "weak": [
+        "能把季度目標翻譯成本週行動",
+        "知道每一層計畫的檢查頻率"
+      ],
+      "lesson": {
+        "title": "How To Integrate Broad Goals With Multi-Scale Planning | Deep Questions With Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=ZHjK2XxcjQk",
+        "duration": "5:13",
+        "why": "把「大目標怎麼接到多尺度計畫」講得最清楚的一支，補上了大多數人缺的中間層"
+      },
+      "drills": [
+        {
+          "name": "長期規劃該從哪裡開始",
+          "kind": "qa",
+          "target": "起手式",
+          "dose": "四分鐘",
+          "title": "Where Should I Start With Long-Term Planning?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=dk5T1NrX8YM",
+          "duration": "4:08"
+        },
+        {
+          "name": "在 Obsidian 裡實作多尺度計畫",
+          "kind": "howto",
+          "target": "數位實作",
+          "dose": "十六分鐘",
+          "title": "How to Do Cal Newport Style Multi-Scale Planning in Obsidian",
+          "channel": "Mike Schmitz",
+          "url": "https://www.youtube.com/watch?v=VFPKz9Do5Kg",
+          "duration": "15:51"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u4",
+      "name": "季計畫與價值計畫",
+      "type": "system",
+      "assessment": "寫下三件你希望別人在五年後這樣形容你的事。再看你這一季的計畫，有幾項真的指向這三件事？沒有的那些，問問自己為什麼還在清單上。",
+      "tight": [
+        "用月為單位規劃，太短又太瑣碎",
+        "價值只放在心裡，沒有寫下來"
+      ],
+      "weak": [
+        "能寫出一份指向價值的季計畫",
+        "知道為什麼是季而不是月或年"
+      ],
+      "lesson": {
+        "title": "How To Organize Your Life With An Optimized Values Plan",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=muG5VcJx8fs",
+        "duration": "6:10",
+        "why": "從價值出發往下推計畫，而不是從待辦往上湊，是這一套系統跟一般時間管理最大的分歧點"
+      },
+      "drills": [
+        {
+          "name": "為什麼是季計畫而不是月計畫或年計畫",
+          "kind": "qa",
+          "target": "週期選擇",
+          "dose": "兩分鐘",
+          "title": "Why Quarterly Planning Instead of Monthly or Annual?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=8L9WBJWG94c",
+          "duration": "2:23"
+        },
+        {
+          "name": "四個人生桶怎麼跟多尺度計畫接起來",
+          "kind": "qa",
+          "target": "價值對齊",
+          "dose": "七分鐘",
+          "title": "How Do You Combine the 4 Buckets with your Multi-Scale Planning?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=DmggPSER2-w",
+          "duration": "6:34"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u5",
+      "name": "系統失效時怎麼修",
+      "type": "practice",
+      "assessment": "回想上一次你的生產力系統崩掉是什麼時候、發生了什麼。寫下崩掉的那一天你原本排了幾件事。多數人會發現，問題不是自律，是那天本來就排太滿。",
+      "tight": [
+        "系統一崩就整套換掉",
+        "把失效歸因於自己不夠自律"
+      ],
+      "weak": [
+        "能定位是哪一層出問題",
+        "知道系統要能承受糟糕的一週"
+      ],
+      "lesson": {
+        "title": "Help! My Productivity System Is Failing... |  Deep Questions Podcast With Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=xjjBr7lcdqM",
+        "duration": "8:42",
+        "why": "少見地談「系統壞掉」而不是「系統怎麼建」，對已經試過又放棄的人特別有用"
+      },
+      "drills": [
+        {
+          "name": "時間管理系統最常見的那個陷阱",
+          "kind": "howto",
+          "target": "反模式",
+          "dose": "八分鐘",
+          "title": "Avoid This TRAP With Your Time Management  System",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=sMgY7HfBlVM",
+          "duration": "7:56"
+        },
+        {
+          "name": "用一套新流程解決工作危機的實例",
+          "kind": "qa",
+          "target": "個案",
+          "dose": "七分鐘",
+          "title": "Solving A Work Crisis With A Novel And Optimized System",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=GvGObvYpdOU",
+          "duration": "6:44"
+        }
+      ]
+    }
+  ]
+}

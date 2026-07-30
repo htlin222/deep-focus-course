@@ -1,0 +1,220 @@
+{
+  "chapter": "CH1",
+  "units": [
+    {
+      "id": "ch1-u1",
+      "name": "深度工作假說：專注是能被交易的稀缺品",
+      "type": "concept",
+      "assessment": "拿今天的行事曆出來，把每個時段標成「深度」或「淺層」：需要不被打斷、且新手無法輕易複製的才算深度。算出深度時段占今天工時的百分比，記下這個數字，這門課結束時再算一次。",
+      "tight": [
+        "把「深度工作」當成「認真工作」的同義詞",
+        "以為只要意志力夠強就能專注"
+      ],
+      "weak": [
+        "能說出深度工作與淺層工作的判準",
+        "理解為什麼稀缺性來自市場而非努力"
+      ],
+      "lesson": {
+        "title": "Core Idea:  Deep Work",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=xJYlhhT7hyE",
+        "duration": "16:51",
+        "why": "Cal Newport 自己的一小時濃縮版，把深度工作的定義、經濟學論證與四條規則一次講完，是整門課的地基"
+      },
+      "drills": [
+        {
+          "name": "什麼是深度工作（Lex Fridman 訪談片段）",
+          "kind": "idea",
+          "target": "定義",
+          "dose": "先看這支建立最小共識",
+          "title": "What is Deep Work? | Cal Newport and Lex Fridman",
+          "channel": "Lex Clips",
+          "url": "https://www.youtube.com/watch?v=b6xQpoVgN68",
+          "duration": "5:08"
+        },
+        {
+          "name": "《深度工作力》四條規則的圖解摘要",
+          "kind": "idea",
+          "target": "全書結構",
+          "dose": "當作章節地圖",
+          "title": "Success in a distracted world: DEEP WORK by Cal Newport",
+          "channel": "Productivity Game",
+          "url": "https://www.youtube.com/watch?v=gTaJhjQHcf8",
+          "duration": "7:30"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u2",
+      "name": "注意力殘留：切換的隱形成本",
+      "type": "concept",
+      "assessment": "今天挑一個兩小時的工作時段，在紙上畫「正」字，每次你主動去看訊息、信件或社群就畫一筆。結束後看那個數字，再問自己：這兩小時裡有多少時間是真的在同一件事上。",
+      "tight": [
+        "以為「快速切換」是效率高的表現",
+        "認為只看一眼訊息不會影響專注"
+      ],
+      "weak": [
+        "能辨認出自己一天被切換了幾次",
+        "知道切換成本發生在切換之後而不是當下"
+      ],
+      "lesson": {
+        "title": "Avoiding Distractions & Doing Deep Work | Dr. Cal Newport & Dr. Andrew Huberman",
+        "channel": "Huberman Lab Clips",
+        "url": "https://www.youtube.com/watch?v=f7V76Ky-_v8",
+        "duration": "9:54",
+        "why": "Cal Newport 與 Andrew Huberman 對談中最直接處理「分心成本」的一段，把機制講得比書上更白話"
+      },
+      "drills": [
+        {
+          "name": "為什麼你的任務總是拖到最後一刻",
+          "kind": "howto",
+          "target": "切換成本",
+          "dose": "兩分鐘，通勤時可看",
+          "title": "Cal Newport's Secret To Finishing Tasks On Time",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=X-I2mKcs49s",
+          "duration": "2:10"
+        },
+        {
+          "name": "系統性拆解《深度工作力》的抗分心策略",
+          "kind": "idea",
+          "target": "策略總覽",
+          "dose": "當作複習",
+          "title": "How to Kill Your Distractions and Get Superhuman Focus | Deep Work by Cal Newport",
+          "channel": "Shortform",
+          "url": "https://www.youtube.com/watch?v=Kt0dSYlDBqE",
+          "duration": "14:44"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u3",
+      "name": "過度刺激讓你變笨",
+      "type": "concept",
+      "assessment": "回想最近一次你「什麼都不做」的完整十分鐘——沒有手機、沒有 podcast、沒有音樂。如果想不起來是什麼時候，這一章就是為你寫的。今天就找十分鐘試一次，記下你多快想去拿手機。",
+      "tight": [
+        "把滑手機當成「休息」",
+        "以為注意力被消耗只發生在工作時間"
+      ],
+      "weak": [
+        "能區分刺激與恢復",
+        "知道基線刺激水準會影響深度工作的能力"
+      ],
+      "lesson": {
+        "title": "Overstimulation Makes You Dumber | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=A3lblgcnGyQ",
+        "duration": "17:46",
+        "why": "Cal Newport 少見地正面回應「腦霧」與「注意力變差」的通俗說法，並劃清哪些有根據、哪些是誇大"
+      },
+      "drills": [
+        {
+          "name": "多巴胺排毒：過度刺激怎麼吃掉你的一天",
+          "kind": "idea",
+          "target": "刺激水準",
+          "dose": "十五分鐘",
+          "title": "Dopamine Detox: How Overstimulation Is Ruining Your Life & How To Take Back Control | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=ufMYxvRH1gQ",
+          "duration": "15:21"
+        },
+        {
+          "name": "TikTok 三十分鐘對大腦做了什麼",
+          "kind": "idea",
+          "target": "短影音",
+          "dose": "看完立刻檢查自己的使用時間",
+          "title": "How TikTok Outsmarts Your Brain in Just 30 Minutes (Addiction, Focus Loss & Brain Rot) | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=vcTh35zptAk",
+          "duration": "11:34"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u4",
+      "name": "忙碌不等於生產力：偽生產力的定義",
+      "type": "concept",
+      "assessment": "寫下你這個月真正交付出去的東西——完成的專案、寫完的文件、做出的決定。再對照這個月開的會與回的訊息量。如果第一份清單短得讓你不安，你抓到偽生產力了。",
+      "tight": [
+        "用回訊息速度證明自己有在工作",
+        "把行事曆填滿當成努力的證據"
+      ],
+      "weak": [
+        "能說出自己這份工作真正的產出是什麼",
+        "知道「可見的忙碌」是工業時代留下的代理指標"
+      ],
+      "lesson": {
+        "title": "The lost art of accomplishment without burnout | Cal Newport for Big Think +",
+        "channel": "Big Think",
+        "url": "https://www.youtube.com/watch?v=0HMjTxKRbaI",
+        "duration": "6:14",
+        "why": "六分鐘講完「偽生產力」的歷史來源與代價，是整個第三篇的引子"
+      },
+      "drills": [
+        {
+          "name": "被大多數人忽略的那個生產力要素",
+          "kind": "idea",
+          "target": "產出定義",
+          "dose": "十分鐘",
+          "title": "The Productivity Element You’re Probably Ignoring | Deep Questions with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=rPeherEQGSg",
+          "duration": "10:11"
+        },
+        {
+          "name": "做更少、做更好、知道為什麼（Lex 訪談）",
+          "kind": "howto",
+          "target": "三句話原則",
+          "dose": "三分鐘，可當口訣",
+          "title": "Productivity advice: Do less, Do better, Know why | Cal Newport and Lex Fridman",
+          "channel": "Lex Clips",
+          "url": "https://www.youtube.com/watch?v=7IFsmV48dDk",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u5",
+      "name": "專注力可以被訓練嗎",
+      "type": "concept",
+      "assessment": "測一次你的基線：設一個計時器，做一件需要思考的事，不碰任何裝置，撐到你第一次真的很想停下來為止。記下分鐘數。這個數字就是你這門課的起點，兩週後再測一次。",
+      "tight": [
+        "以為專注是天生的性格特質",
+        "期待幾天內就看到明顯改變"
+      ],
+      "weak": [
+        "能設計一個逐步加長的專注區間",
+        "知道訓練的是耐受度而不是「腦力」"
+      ],
+      "lesson": {
+        "title": "Build a Brain That CRAVES Deep Work [Cal Newport’s Deep Work System]",
+        "channel": "LITTLE BIT BETTER",
+        "url": "https://www.youtube.com/watch?v=8sQn_cJU-sM",
+        "duration": "24:58",
+        "why": "把 Cal Newport 的深度工作方法整理成可以逐步加量的訓練流程，比原書更接近「課表」"
+      },
+      "drills": [
+        {
+          "name": "什麼是專注力伸展操（Cal Newport 親自解釋）",
+          "kind": "howto",
+          "target": "訓練法",
+          "dose": "兩分鐘",
+          "title": "Can You Elaborate on Concentration Calisthenics?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=6VJAWxpKiiM",
+          "duration": "2:46"
+        },
+        {
+          "name": "深度工作的最短有效時長：至少一小時",
+          "kind": "howto",
+          "target": "劑量",
+          "dose": "三分鐘",
+          "title": "Optimal duration for deep work is at least 1 hour | Cal Newport and Lex Fridman",
+          "channel": "Lex Clips",
+          "url": "https://www.youtube.com/watch?v=LA6mvxwecZ0",
+          "duration": "3:21"
+        }
+      ]
+    }
+  ]
+}

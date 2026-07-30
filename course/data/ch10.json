@@ -1,0 +1,220 @@
+{
+  "chapter": "CH10",
+  "units": [
+    {
+      "id": "ch10-u1",
+      "name": "反對 email 的理由",
+      "type": "concept",
+      "assessment": "算一下你昨天收發了幾封信、幾則工作訊息。再問：其中有幾則真的推進了工作，有幾則只是在協調「什麼時候做」？後者的比例就是流程的問題。",
+      "tight": [
+        "把收件匣當成工作本身",
+        "以為問題是自己回信不夠快"
+      ],
+      "weak": [
+        "理解過動蜂巢思維怎麼形成",
+        "知道問題出在流程不是禮貌"
+      ],
+      "lesson": {
+        "title": "CORE IDEA: The Case Against Email",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=CsRmOfeBRnw",
+        "duration": "20:55",
+        "why": "《沒有 email 的世界》核心觀念版，把「蜂巢思維」的成因與代價講完整"
+      },
+      "drills": [
+        {
+          "name": "email 怎麼毀掉工作生產力（Lex 訪談）",
+          "kind": "idea",
+          "target": "論證",
+          "dose": "九分鐘",
+          "title": "How email destroyed our productivity at work | Cal Newport and Lex Fridman",
+          "channel": "Lex Clips",
+          "url": "https://www.youtube.com/watch?v=ou_A-3WUzqw",
+          "duration": "9:00"
+        },
+        {
+          "name": "為什麼我們需要一個沒有 email 的世界",
+          "kind": "idea",
+          "target": "短版論述",
+          "dose": "六分鐘",
+          "title": "Cal Newport: Why We NEED A World Without Email",
+          "channel": "The Hill",
+          "url": "https://www.youtube.com/watch?v=Y4UInan7rbw",
+          "duration": "5:31"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u2",
+      "name": "馴服收件匣",
+      "type": "practice",
+      "assessment": "明天只在三個事先指定的時間點打開收件匣，其他時間整個關掉。到了晚上誠實回答一個問題：有沒有任何一件事，真的因為你晚了幾小時才回覆而出了問題？",
+      "tight": [
+        "整天開著收件匣隨到隨回",
+        "追求收件匣清空但沒改變流程"
+      ],
+      "weak": [
+        "能固定檢查信件的時段",
+        "知道清空收件匣不等於解決過載"
+      ],
+      "lesson": {
+        "title": "How To Tame Email? | DEEP DIVE | Episode 149",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=mh5FAAD-C1s",
+        "duration": "15:33",
+        "why": "一整集深度討論怎麼實際馴服 email，做法比書上更細"
+      },
+      "drills": [
+        {
+          "name": "一天該檢查幾次信箱",
+          "kind": "qa",
+          "target": "頻率",
+          "dose": "六分鐘",
+          "title": "How Often Should I Check Email? | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=pLxsTJi4X5Q",
+          "duration": "5:53"
+        },
+        {
+          "name": "收件匣清空有意義嗎",
+          "kind": "qa",
+          "target": "目標設定",
+          "dose": "七分鐘",
+          "title": "Is Inbox Zero Possible? Does It Matter? | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=jN8G-74kw6o",
+          "duration": "6:33"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u3",
+      "name": "訊息過載與團隊協定",
+      "type": "system",
+      "assessment": "挑出你團隊裡最頻繁的一種來回訊息——例如約時間、確認狀態、催進度——寫下一個可以取代它的固定流程。這個協定要簡單到別人第一次看到就能照做，否則不會被採用。",
+      "tight": [
+        "用即時通訊處理需要思考的問題",
+        "沒有團隊共識就自己單方面減少回應"
+      ],
+      "weak": [
+        "能提出一個具體的溝通協定",
+        "知道協定要降低他人成本才會被採用"
+      ],
+      "lesson": {
+        "title": "Overwhelmed By Work Messages? Do This Instead | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=CmFtnXYsGcY",
+        "duration": "20:31",
+        "why": "把「被工作訊息淹沒」轉成流程設計問題，給出可以跟同事提的具體方案"
+      },
+      "drills": [
+        {
+          "name": "用三條簡單規則救團隊脫離信件過載",
+          "kind": "howto",
+          "target": "團隊規則",
+          "dose": "六分鐘",
+          "title": "How To Rescue Your Team From Email Overload (3 Simple Rules)",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=5CUb-cQbhDg",
+          "duration": "6:18"
+        },
+        {
+          "name": "消除溝通過載的一個簡單策略",
+          "kind": "howto",
+          "target": "單點改善",
+          "dose": "七分鐘",
+          "title": "A Simple Strategy For Eliminating Communication Overload | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=vvyBg9ngBy8",
+          "duration": "7:06"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u4",
+      "name": "會議",
+      "type": "practice",
+      "assessment": "打開你下週的會議清單，逐一問：這一場的目的是做決策、同步資訊，還是純粹在協調時間？後面兩種幾乎都能用非同步的方式取代——挑其中一場，實際換掉試試看。",
+      "tight": [
+        "用會議代替決策",
+        "會議之間沒有留下任何深度時段"
+      ],
+      "weak": [
+        "能把大部分會議換成非同步流程",
+        "有固定的辦公時間取代零散會議"
+      ],
+      "lesson": {
+        "title": "Cal Newport's Evidence To Cancel 90% Of Work Meetings",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=1K9mOpRsQkc",
+        "duration": "18:23",
+        "why": "他整理出可以取消九成會議的論據與替代方案，是最能直接改變行事曆的一支"
+      },
+      "drills": [
+        {
+          "name": "馴服會議的四個工具",
+          "kind": "howto",
+          "target": "工具箱",
+          "dose": "十七分鐘",
+          "title": "Cal Newport’s 4 Tools for Taming Meetings | Deep Questions Podcast",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=hTm942r-mQU",
+          "duration": "16:28"
+        },
+        {
+          "name": "他怎麼準備會議、怎麼做筆記",
+          "kind": "qa",
+          "target": "會前會後",
+          "dose": "五分鐘",
+          "title": "How Do You Meeting Prep and Take Notes?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=irT8AC3nPWg",
+          "duration": "4:17"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u5",
+      "name": "倦怠：工作量工程",
+      "type": "concept",
+      "assessment": "寫下讓你最累的三件事。針對每一件問：是工作內容本身累，還是伴隨的協調、等待與切換累？多數人的答案是後者，那是可以被工程處理的。",
+      "tight": [
+        "把倦怠當成需要休假解決的疲勞",
+        "回來後工作量完全沒變"
+      ],
+      "weak": [
+        "能盤點造成過載的具體來源",
+        "知道倦怠多半是流程問題"
+      ],
+      "lesson": {
+        "title": "Why You Feel Tired, Burn't Out & Overwhelmed All The Time (How To Fix It) | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=E12dC0Dil8Y",
+        "duration": "18:07",
+        "why": "把倦怠拆成工作量結構問題而不是心理韌性問題，跟主流建議很不一樣"
+      },
+      "drills": [
+        {
+          "name": "怎麼避免倦怠（Huberman 對談）",
+          "kind": "howto",
+          "target": "預防",
+          "dose": "十二分鐘",
+          "title": "How to Avoid Burnout | Dr. Cal Newport & Dr. Andrew Huberman",
+          "channel": "Huberman Lab Clips",
+          "url": "https://www.youtube.com/watch?v=smjGAcyqDnk",
+          "duration": "11:27"
+        },
+        {
+          "name": "用工程手段設計工作量、消除壓力",
+          "kind": "howto",
+          "target": "工作量設計",
+          "dose": "九分鐘",
+          "title": "Engineering Your Workload To Eliminate Stress",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=TH_xAR7pljU",
+          "duration": "9:09"
+        }
+      ]
+    }
+  ]
+}

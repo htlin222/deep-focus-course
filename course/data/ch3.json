@@ -1,0 +1,220 @@
+{
+  "chapter": "CH3",
+  "units": [
+    {
+      "id": "ch3-u1",
+      "name": "Monk Mode 真的有用嗎",
+      "type": "concept",
+      "assessment": "誠實回答一個問題：如果從明天起關掉所有社群與非必要會議三十天，你的工作與人際會出什麼具體問題？把問題列出來，你就知道自己適合哪一種哲學。",
+      "tight": [
+        "把極端隔離當成唯一正解",
+        "以為要先清空生活才能開始"
+      ],
+      "weak": [
+        "能分辨修道院式與雙峰式的適用情境",
+        "知道極端策略的維持成本"
+      ],
+      "lesson": {
+        "title": "Does “Monk Mode” Actually Work? - How To Achieve Deep Work & Get Ahead | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=aHMSPV9GdV8",
+        "duration": "18:50",
+        "why": "Cal Newport 正面回應網路上流行的 Monk Mode，指出哪一部分有道理、哪一部分是誤讀"
+      },
+      "drills": [
+        {
+          "name": "深度工作的四種排程哲學圖解",
+          "kind": "idea",
+          "target": "哲學選擇",
+          "dose": "五分鐘",
+          "title": "The Four Philosophies of Deep Work - Cal Newport",
+          "channel": "Verbal to Visual",
+          "url": "https://www.youtube.com/watch?v=EFrE2akDp_8",
+          "duration": "4:52"
+        },
+        {
+          "name": "數位時代掌握注意力的整體藍圖",
+          "kind": "idea",
+          "target": "總覽",
+          "dose": "十分鐘",
+          "title": "Master Your Attention in the Digital Age | Deep Work Blueprint | Dr Cal Newport & Andrew Huberman",
+          "channel": "Neurospire",
+          "url": "https://www.youtube.com/watch?v=5wPRNPvy0rE",
+          "duration": "10:11"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u2",
+      "name": "Cal Newport 的規劃系統總覽",
+      "type": "system",
+      "assessment": "拿出你現在用的所有計畫工具（App、筆記本、便利貼），全部列出來。超過兩個就是問題。決定哪一個是唯一的主計畫，其他降級成臨時捕捉用。",
+      "tight": [
+        "同時採用三套生產力方法互相打架",
+        "只做每日計畫，沒有更高層級的方向"
+      ],
+      "weak": [
+        "能說出日、週、季三層各自負責什麼",
+        "有一個唯一的計畫載體"
+      ],
+      "lesson": {
+        "title": "Cal Newport's Planning System (In Detail)",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=3FipKTzkTD4",
+        "duration": "18:19",
+        "why": "目前最完整的一支：Cal Newport 逐層拆解他自己的規劃系統，是第四章所有做法的總綱"
+      },
+      "drills": [
+        {
+          "name": "他的筆記與時間管理系統實際長什麼樣",
+          "kind": "howto",
+          "target": "系統實作",
+          "dose": "十七分鐘",
+          "title": "My Planning System For Note Taking & Time Management | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=F8nKjLlkw2k",
+          "duration": "17:21"
+        },
+        {
+          "name": "與 Huberman 對談：時間管理工具怎麼選",
+          "kind": "howto",
+          "target": "工具",
+          "dose": "九分鐘",
+          "title": "Maximize Productivity With These Time Management Tools | Dr. Cal Newport & Dr. Andrew Huberman",
+          "channel": "Huberman Lab Clips",
+          "url": "https://www.youtube.com/watch?v=T4dser6ssp0",
+          "duration": "9:02"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u3",
+      "name": "時間分塊：把一天先分配掉",
+      "type": "system",
+      "assessment": "明天早上花五分鐘，把整個工作日切成區塊寫下來，每個區塊指定一件事。下班前對照實際發生了什麼，用不同顏色改寫。重點不是準確，是你有沒有重排。",
+      "tight": [
+        "用待辦清單代替行事曆",
+        "計畫被打亂就整天不再計畫"
+      ],
+      "weak": [
+        "能在早上五分鐘內排完一天",
+        "知道計畫被打亂時要重排而不是放棄"
+      ],
+      "lesson": {
+        "title": "Core Idea:  Time Management",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=dOQpZlZuySE",
+        "duration": "19:53",
+        "why": "時間管理的核心觀念版，把時間分塊背後的邏輯講清楚，而不只是教你填格子"
+      },
+      "drills": [
+        {
+          "name": "時間分塊怎麼排（Lex 訪談片段）",
+          "kind": "howto",
+          "target": "操作",
+          "dose": "七分鐘",
+          "title": "How to schedule deep work: Time blocking | Cal Newport and Lex Fridman",
+          "channel": "Lex Clips",
+          "url": "https://www.youtube.com/watch?v=ykNcnrNvpTI",
+          "duration": "7:18"
+        },
+        {
+          "name": "有 ADHD 也能用時間分塊嗎",
+          "kind": "qa",
+          "target": "適用性",
+          "dose": "兩分鐘",
+          "title": "Does Time-blocking work with ADHD?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=G-KwB7T6JZ4",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u4",
+      "name": "關機儀式：讓工作真的結束",
+      "type": "practice",
+      "assessment": "今天下班前做一次：把所有未完成的事寫進明天的計畫，確認沒有遺漏，然後對自己說一句固定的話當作結束。連做三天，觀察晚上腦子裡的工作雜訊有沒有變少。",
+      "tight": [
+        "晚上還在想沒做完的事卻不寫下來",
+        "睡前最後一件事是看工作訊息"
+      ],
+      "weak": [
+        "有一句固定的結束訊號",
+        "能把未完成的事全部外部化"
+      ],
+      "lesson": {
+        "title": "How To *Finally* Log Off And Live More | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=B17LBJJTFW4",
+        "duration": "6:33",
+        "why": "把「怎麼真正下班」講成一套可執行的收尾流程，是本章最容易立刻見效的一支"
+      },
+      "drills": [
+        {
+          "name": "用一天結束的儀式降低壓力（Huberman 對談）",
+          "kind": "howto",
+          "target": "收尾",
+          "dose": "四分鐘",
+          "title": "Lower Stress With an End-of-Day Ritual | Dr. Cal Newport & Dr. Andrew Huberman",
+          "channel": "Huberman Lab Clips",
+          "url": "https://www.youtube.com/watch?v=NsNA8XHbQjQ",
+          "duration": "3:55"
+        },
+        {
+          "name": "關機之後還是焦慮怎麼辦",
+          "kind": "qa",
+          "target": "殘留焦慮",
+          "dose": "七分鐘",
+          "title": "How Do I Eliminate Post-Shutdown Anxiety | Deep Questions Podcast with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=-pdmry5gU7g",
+          "duration": "7:23"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u5",
+      "name": "晨間例行與一日的節奏",
+      "type": "practice",
+      "assessment": "明天早上把手機留在房間外，起床後第一個小時只做一件事——你昨天晚上就決定好的那一件。連續做一週，然後回頭比較：這七個早上跟之前的早上，最大的差別是什麼？",
+      "tight": [
+        "把晨間例行做成需要一小時的儀式",
+        "早上第一件事就是打開收件匣"
+      ],
+      "weak": [
+        "能保護起床後的第一個小時",
+        "知道節奏比意志力可靠"
+      ],
+      "lesson": {
+        "title": "How To Build A Morning Routine That Works | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=DmtyjU4C7Pc",
+        "duration": "11:50",
+        "why": "Cal Newport 談他實際的晨間安排，重點放在「可持續」而不是「勵志」"
+      },
+      "drills": [
+        {
+          "name": "早上總是啟動不了怎麼辦",
+          "kind": "qa",
+          "target": "啟動困難",
+          "dose": "六分鐘",
+          "title": "Can You Provide Advice on My Morning Struggles?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=2MSO9Sr7wOk",
+          "duration": "6:11"
+        },
+        {
+          "name": "固定的休息日儀式為什麼能降低工作焦慮",
+          "kind": "idea",
+          "target": "週節奏",
+          "dose": "四分鐘",
+          "title": "Shabbat Rituals Are *Critical* for Taming Work Anxiety | Deep Questions Podcast with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=cgbWIKwbdfY",
+          "duration": "3:37"
+        }
+      ]
+    }
+  ]
+}

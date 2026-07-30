@@ -1,0 +1,220 @@
+{
+  "chapter": "CH2",
+  "units": [
+    {
+      "id": "ch2-u1",
+      "name": "一天到底能做多少深度工作",
+      "type": "practice",
+      "assessment": "從明天開始連續三天，每天只排一段九十分鐘的深度時段，其他都不改。三天後檢查：有幾天真的做完了？做不完的那天卡在哪裡——是被打斷，還是根本沒開始？",
+      "tight": [
+        "以為深度工作可以一天八小時",
+        "新手一開始就排四小時然後放棄"
+      ],
+      "weak": [
+        "知道新手與熟手的合理上限差很多",
+        "能為自己排出可持續的每日額度"
+      ],
+      "lesson": {
+        "title": "How Much Deep Work is Possible Per Day? | Deep Questions with Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=TVxfxUKQQs0",
+        "duration": "3:14",
+        "why": "Cal Newport 直接回答「上限是多少」，給出新手一小時、熟手四小時的具體數字"
+      },
+      "drills": [
+        {
+          "name": "學生一天該做多久深度工作",
+          "kind": "qa",
+          "target": "劑量",
+          "dose": "五分鐘",
+          "title": "How Long Should A College Student Do Deep Work? | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=NOJolJGqd9k",
+          "duration": "5:26"
+        },
+        {
+          "name": "深度工作也會做到倦怠嗎",
+          "kind": "qa",
+          "target": "過量",
+          "dose": "兩分鐘",
+          "title": "How Do I Avoid Burnout Due to DEEP WORK?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=YkwOoZrWq9Q",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u2",
+      "name": "分心的深度工作等於沒做",
+      "type": "practice",
+      "assessment": "檢查你上一次的深度時段：手機在哪裡、幾個分頁開著、通知有沒有關。只要有一項不合格，那段時間就不計入你的深度時數——用這個標準重算一次上週的數字。",
+      "tight": [
+        "一邊放著聊天視窗一邊寫東西",
+        "把「有在座位上」當成有在深度工作"
+      ],
+      "weak": [
+        "能為深度時段設一個明確的隔離條件",
+        "知道半分心的一小時不能算進去"
+      ],
+      "lesson": {
+        "title": "Distracted Deep Work Is A Waste Of Time | Deep Questions With Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=13HsDVHUORg",
+        "duration": "4:45",
+        "why": "把「假深度工作」講得最不留情的一支：分心的深度工作是浪費時間"
+      },
+      "drills": [
+        {
+          "name": "深度工作時可以聽音樂嗎",
+          "kind": "qa",
+          "target": "環境",
+          "dose": "兩分鐘",
+          "title": "Do You Recommend Listening to Music While Doing Deep Work?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=zL3gu3ao4dI",
+          "duration": "2:16"
+        },
+        {
+          "name": "運動要排在深度工作之前還是之後",
+          "kind": "qa",
+          "target": "體力安排",
+          "dose": "三分鐘",
+          "title": "Should I Exercise Before or After Deep Work?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=vvoQhrZV5dM",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u3",
+      "name": "把深度時數變成可以追蹤的數字",
+      "type": "system",
+      "assessment": "找一張紙貼在桌邊，只寫兩個欄位：日期、當天累計深度分鐘數。連記七天，第七天把總和除以七。這個平均值比任何生產力 App 的儀表板都有用。",
+      "tight": [
+        "只憑感覺判斷這週有沒有專注",
+        "追蹤系統太複雜，兩週後就放棄"
+      ],
+      "weak": [
+        "能用一張紙記錄每日深度時數",
+        "知道追蹤的目的是回饋而不是評分"
+      ],
+      "lesson": {
+        "title": "How Should I Track Deep Work in my Time-Block Planner?",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=IYdUfxlZrd0",
+        "duration": "5:05",
+        "why": "Cal Newport 說明他自己怎麼在時間分塊本上記錄深度工作時數，做法簡單到可以立刻抄"
+      },
+      "drills": [
+        {
+          "name": "深度工作追蹤與 GTD 系統會衝突嗎",
+          "kind": "qa",
+          "target": "系統整合",
+          "dose": "四分鐘",
+          "title": "Are Your Systems for Tracking Deep Work and GTD Exclusive?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=9VLRceaz3Bw",
+          "duration": "4:18"
+        },
+        {
+          "name": "生產力漏斗與捕捉—配置—控制的差別",
+          "kind": "idea",
+          "target": "系統框架",
+          "dose": "四分鐘",
+          "title": "What's the Difference Between the Productivity Funnel and Capture-Configure-Control?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=6B6nPl_IKu0",
+          "duration": "4:17"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u4",
+      "name": "場所、儀式與旅行中的深度工作",
+      "type": "practice",
+      "assessment": "為下一次深度時段先決定三件事：在哪裡做、做多久、結束的訊號是什麼。寫在便條上放桌面。做完之後回頭看：這三件事有沒有讓你比較容易開始？",
+      "tight": [
+        "等「有心情」才開始深度工作",
+        "換了環境就整個系統停擺"
+      ],
+      "weak": [
+        "能指定一個固定的深度工作地點",
+        "有一套出差或旅行時的簡化版流程"
+      ],
+      "lesson": {
+        "title": "A Look Inside Cal Newport's Deep Work Hideaway | Weekly Update #1",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=CX4AUizZS3g",
+        "duration": "13:23",
+        "why": "難得一見的實景：Cal Newport 帶你看他自己的深度工作藏身處，把「場所即儀式」講得很具體"
+      },
+      "drills": [
+        {
+          "name": "出差時怎麼排深度工作",
+          "kind": "howto",
+          "target": "移動中",
+          "dose": "五分鐘",
+          "title": "The Secrets To Schedule Deep Work When Travelling | Weekly Update #3",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=6-MQZRudpSM",
+          "duration": "5:39"
+        },
+        {
+          "name": "不用通勤時怎麼維持產出",
+          "kind": "howto",
+          "target": "遠距",
+          "dose": "三分鐘",
+          "title": "The Work Hack To Remain Productive And Avoid Commuting | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=ExhCfW58OLs",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u5",
+      "name": "主管、學生、上班族怎麼各自套用",
+      "type": "practice",
+      "assessment": "把你這週的行事曆攤開，找出唯一一段連續九十分鐘、沒有人會找你的時間。如果一段都找不到，就找一段六十分鐘的，並寫下你要跟誰協調才能保住它。",
+      "tight": [
+        "以為深度工作只適合作家與研究者",
+        "行程被別人決定就直接放棄"
+      ],
+      "weak": [
+        "能在被切碎的行事曆裡找出可保護的區塊",
+        "知道不同角色的深度工作長什麼樣"
+      ],
+      "lesson": {
+        "title": "Can Managers Do Deep Work? | Deep Questions with Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=_kYj9ObDavQ",
+        "duration": "9:27",
+        "why": "直接處理「主管能不能做深度工作」這個最常見的反駁，答案比想像中細緻"
+      },
+      "drills": [
+        {
+          "name": "學生、上班族、創業者的三種套用方式",
+          "kind": "qa",
+          "target": "角色差異",
+          "dose": "五分鐘",
+          "title": "How Do I Apply Deep Work To My Life As a Student, Full-Time Employee, and as an Entrepreneur?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=wa4xKrtejLo",
+          "duration": "4:39"
+        },
+        {
+          "name": "怎麼把深度工作教給企業主管",
+          "kind": "qa",
+          "target": "組織導入",
+          "dose": "十分鐘",
+          "title": "How To Teach Corporate Leaders To Work Deeply",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=vFSVq7CoHAE",
+          "duration": "9:42"
+        }
+      ]
+    }
+  ]
+}

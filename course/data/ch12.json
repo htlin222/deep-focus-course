@@ -1,0 +1,220 @@
+{
+  "chapter": "CH12",
+  "units": [
+    {
+      "id": "ch12-u1",
+      "name": "深度人生的四個桶",
+      "type": "concept",
+      "assessment": "把工作、健康、關係、沉思這四塊各寫一句話：「這一季我要改變的一件事是什麼。」四句話寫完，你手上就有一份比任何年度目標都更具體、也更可能真的被執行的計畫。",
+      "tight": [
+        "只優化工作那一塊",
+        "把人生規劃想成一次性的大決定"
+      ],
+      "weak": [
+        "能為四個面向各定一個當季重點",
+        "知道深度人生是結構不是心境"
+      ],
+      "lesson": {
+        "title": "Core Idea:  The Deep Life",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=oD5e1DRkbiU",
+        "duration": "22:34",
+        "why": "深度人生的核心觀念版，把整套價值架構一次講完，是這門課的收束點"
+      },
+      "drills": [
+        {
+          "name": "深度工作與深度人生四桶的差別",
+          "kind": "idea",
+          "target": "概念釐清",
+          "dose": "二十二分鐘",
+          "title": "What's the Difference Between Deep Work and Deep Life Buckets?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=LRYVs4HkSuU",
+          "duration": "22:24"
+        },
+        {
+          "name": "青少年版的深度人生指南",
+          "kind": "qa",
+          "target": "不同對象",
+          "dose": "十三分鐘",
+          "title": "A Teenagers Guide To The Deep Life",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=bMJLXVIC1TY",
+          "duration": "12:36"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u2",
+      "name": "深度閱讀",
+      "type": "practice",
+      "assessment": "算一下你上個月真正讀完了幾本書，不是買了幾本、開了幾本。不管數字是多少，這週先安排三個二十分鐘的固定閱讀時段，寫進行事曆裡，而不是放在心裡打算。",
+      "tight": [
+        "把讀完的本數當成目標",
+        "只在有整段時間時才讀"
+      ],
+      "weak": [
+        "能把閱讀排進固定時段",
+        "知道讀得慢也算讀"
+      ],
+      "lesson": {
+        "title": "How to Read 5 Books a Month | Cal Newport’s Method",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=gRBkIdc_VYU",
+        "duration": "9:56",
+        "why": "四十萬觀看的一支，講他一個月讀五本書的實際安排，重點在排程不在速讀"
+      },
+      "drills": [
+        {
+          "name": "怎麼成為一個認真的讀者",
+          "kind": "howto",
+          "target": "習慣建立",
+          "dose": "十分鐘",
+          "title": "How To Become A Serious Reader",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=CiOvKClmBaw",
+          "duration": "9:53"
+        },
+        {
+          "name": "該讀紙本還是電子書",
+          "kind": "qa",
+          "target": "載體選擇",
+          "dose": "四分鐘",
+          "title": "Should I Read Physical Books or E-books?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=flG9sXkTeYw",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u3",
+      "name": "讀書筆記與知識管理",
+      "type": "system",
+      "assessment": "挑一本你最近讀完的書，用十五分鐘寫下三件事：最重要的一個論點、你不同意的一點、你打算改變的一個行為。這比任何劃線都有用。",
+      "tight": [
+        "讀完不留任何痕跡",
+        "筆記系統複雜到不想維護"
+      ],
+      "weak": [
+        "能用最低成本留下可再用的筆記",
+        "知道筆記是為了寫作與思考而不是收藏"
+      ],
+      "lesson": {
+        "title": "How Professional Writers Take Notes on Books | Deep Questions with Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=T79wobxay98",
+        "duration": "15:25",
+        "why": "專業寫作者怎麼對書做筆記，做法出乎意料地低科技"
+      },
+      "drills": [
+        {
+          "name": "做筆記真正重要的是什麼",
+          "kind": "howto",
+          "target": "原則",
+          "dose": "十六分鐘",
+          "title": "When It Comes To Taking Notes, Here's What Really Matters (Organize Your Life) | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=4VS2usPLy0k",
+          "duration": "16:19"
+        },
+        {
+          "name": "他的知識管理整體長什麼樣",
+          "kind": "qa",
+          "target": "系統全貌",
+          "dose": "七分鐘",
+          "title": "What Does Your General Knowledge Management Look Like?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=QTksfXy7uAo",
+          "duration": "7:03"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u4",
+      "name": "自學與學習法",
+      "type": "practice",
+      "assessment": "挑一個你正在學的主題，把書合上，用五分鐘把你記得的內容全部寫下來，寫不出來的地方也標記出來。然後再打開書對照。這五分鐘的效果會遠勝過同樣時間的重讀。",
+      "tight": [
+        "用重讀與劃線當成複習",
+        "沒有設定可驗證的學習成果"
+      ],
+      "weak": [
+        "能用主動回想取代被動閱讀",
+        "知道學習要有輸出才算完成"
+      ],
+      "lesson": {
+        "title": "The Art Of Self-Studying | Deep Questions With Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=_WGdDUer3cQ",
+        "duration": "6:09",
+        "why": "自學的方法論，補上了學習動機之外「怎麼安排」的那一層"
+      },
+      "drills": [
+        {
+          "name": "用主動回想學習（Huberman 對談）",
+          "kind": "howto",
+          "target": "核心技巧",
+          "dose": "七分鐘",
+          "title": "How to Study & Learn Using Active Recall | Dr. Cal Newport & Dr. Andrew Huberman",
+          "channel": "Huberman Lab Clips",
+          "url": "https://www.youtube.com/watch?v=mzexJPoXBCM",
+          "duration": "6:48"
+        },
+        {
+          "name": "怎麼自學技術到能被雇用的程度",
+          "kind": "qa",
+          "target": "職涯導向",
+          "dose": "四分鐘",
+          "title": "How Do You Self Study Technical Things Well Enough to be Employable?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=uS5jlG16zKs",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u5",
+      "name": "紀律：把專注變成預設值",
+      "type": "practice",
+      "assessment": "從這門課裡選一個你最想維持下去的做法，畫一張三十格的表貼在每天看得見的地方，做到就打一個勾。不要一次選五個，就選一個。三十天之後，再考慮加上第二個。",
+      "tight": [
+        "靠意志力硬撐",
+        "沒有可見的追蹤所以無從修正"
+      ],
+      "weak": [
+        "能建立一個看得見的紀錄",
+        "知道紀律來自系統與身分認同"
+      ],
+      "lesson": {
+        "title": "Cal Newport's Advice For Becoming a Disciplined Person | Deep Questions Podcast",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=MTS4akJadFg",
+        "duration": "11:11",
+        "why": "二十六萬觀看的一支，把紀律拆成可操作的組成，是整門課最適合當結尾的內容"
+      },
+      "drills": [
+        {
+          "name": "怎麼掌握自制力與專注",
+          "kind": "howto",
+          "target": "整體方法",
+          "dose": "十九分鐘",
+          "title": "How To Be More Disciplined - Master Self Control & Focus | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=F-VR5C0dqnU",
+          "duration": "18:44"
+        },
+        {
+          "name": "維持一致紀律的實用建議",
+          "kind": "howto",
+          "target": "持續性",
+          "dose": "九分鐘",
+          "title": "Cal Newport's Tips To Cultivating More Consistent Discipline",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=GOb2yBF42dE",
+          "duration": "8:53"
+        }
+      ]
+    }
+  ]
+}

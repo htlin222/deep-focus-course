@@ -1,0 +1,220 @@
+{
+  "chapter": "CH5",
+  "units": [
+    {
+      "id": "ch5-u1",
+      "name": "退出社群媒體：那場 TED 演講",
+      "type": "concept",
+      "assessment": "列出你手機上所有社群 App，一個一個問：如果它明天消失，我具體會失去什麼？寫不出具體答案的那幾個，就是這一章要處理的對象。",
+      "tight": [
+        "以為不用社群就會與世界脫節",
+        "把「工具有用」當成「必須一直用」"
+      ],
+      "weak": [
+        "能區分工具的價值與使用的代價",
+        "知道自己用每個平台換到了什麼"
+      ],
+      "lesson": {
+        "title": "Quit social media | Dr. Cal Newport | TEDxTysons",
+        "channel": "TEDx Talks",
+        "url": "https://www.youtube.com/watch?v=3E7hkPZ-HTk",
+        "duration": "13:50",
+        "why": "一千一百萬次觀看的原始演講，是 Cal Newport 對社群媒體最完整也最被誤讀的一次公開論證"
+      },
+      "drills": [
+        {
+          "name": "八百萬觀看之後，他自己回頭檢討這場演講",
+          "kind": "idea",
+          "target": "自我修正",
+          "dose": "二十一分鐘",
+          "title": "Quit Social Media (Revisiting my Viral TED Talk, 8 Million Views Later) | Deep Questions Podcast",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=GaVxTtIH2Js",
+          "duration": "21:23"
+        },
+        {
+          "name": "不用社群媒體的好處（TEDx 短版）",
+          "kind": "idea",
+          "target": "論點摘要",
+          "dose": "七分鐘",
+          "title": "The perks of living without social media | Cal Newport | TEDxTysons",
+          "channel": "TEDx Talks",
+          "url": "https://www.youtube.com/watch?v=gHREDrcGr4k",
+          "duration": "7:14"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u2",
+      "name": "社群媒體為什麼馴服不了",
+      "type": "concept",
+      "assessment": "打開手機的螢幕使用時間，看社群類 App 的週平均。再乘以五十二，換算成一年的天數。把這個數字寫下來——這一章接下來的每個做法都是為了改變它。",
+      "tight": [
+        "相信「我只是偶爾滑一下」",
+        "以為靠自律就能安全使用"
+      ],
+      "weak": [
+        "理解注意力經濟的商業模式",
+        "知道設計目標與你的目標本來就相反"
+      ],
+      "lesson": {
+        "title": "Cal Newport On Why Social Media Can’t Be Tamed | Deep Questions Podcast",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=1cxFVKkA4MI",
+        "duration": "10:57",
+        "why": "Cal Newport 解釋為什麼「節制使用」在結構上注定失敗，這是整個數位極簡主張的核心論證"
+      },
+      "drills": [
+        {
+          "name": "為什麼越來越多聰明人正在離開社群媒體",
+          "kind": "idea",
+          "target": "趨勢觀察",
+          "dose": "二十七分鐘",
+          "title": "Why Smart People Are Abandoning Social Media | Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=X-Lb81yUph4",
+          "duration": "27:00"
+        },
+        {
+          "name": "他為什麼從來沒用過社群媒體",
+          "kind": "idea",
+          "target": "個人立場",
+          "dose": "五分鐘",
+          "title": "'Why I Never Used Social Media' - Professor Cal Newport",
+          "channel": "Valuetainment Short Clips",
+          "url": "https://www.youtube.com/watch?v=SRfd8Wc1v2s",
+          "duration": "4:52"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u3",
+      "name": "沒有社群媒體的生活長什麼樣",
+      "type": "concept",
+      "assessment": "假設你今天刪掉最常用的那個社群 App，寫下三個你原本靠它維繫、現在需要另找方法的關係，以及你打算怎麼聯絡他們。沒有替代方案的退出多半撐不過兩週。",
+      "tight": [
+        "以為退出等於與人失聯",
+        "擔心錯過工作機會"
+      ],
+      "weak": [
+        "能設計替代的聯絡管道",
+        "知道退出後多出來的時間要拿去做什麼"
+      ],
+      "lesson": {
+        "title": "The Perks of Living Without Social Media | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=m6AF_aFuD8w",
+        "duration": "13:18",
+        "why": "他自己二十年不用社群媒體的實際經驗，回答了「那你怎麼跟人聯絡」這個最常見的疑問"
+      },
+      "drills": [
+        {
+          "name": "為什麼 Cal Newport 不用社群媒體（Tim Ferriss 訪談）",
+          "kind": "qa",
+          "target": "實務問答",
+          "dose": "五分鐘",
+          "title": "Why Cal Newport is Not on Social Media",
+          "channel": "Tim Ferriss",
+          "url": "https://www.youtube.com/watch?v=1vCpxbKoOnk",
+          "duration": "4:41"
+        },
+        {
+          "name": "怎麼真的刪掉社群媒體（Huberman 對談）",
+          "kind": "howto",
+          "target": "執行步驟",
+          "dose": "六分鐘",
+          "title": "How to Successfully Delete Social Media | Dr. Cal Newport & Dr. Andrew Huberman",
+          "channel": "Huberman Lab Clips",
+          "url": "https://www.youtube.com/watch?v=eUSBKj5ZQpo",
+          "duration": "5:41"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u4",
+      "name": "手機、睡眠與焦慮",
+      "type": "practice",
+      "assessment": "今晚把手機充電器移到臥室外，改用實體鬧鐘。連續三個晚上之後，記下兩件事：你大概多久睡著，以及醒來後第一個小時實際做了什麼。再跟這三天之前的狀況比較。",
+      "tight": [
+        "睡前滑手機當作放鬆",
+        "把手機當鬧鐘所以必須放床頭"
+      ],
+      "weak": [
+        "能讓手機在睡前一小時離開身邊",
+        "有一個不需要螢幕的睡前活動"
+      ],
+      "lesson": {
+        "title": "Stop Phone Scrolling Before Bed & Do This Instead | Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=x8G6NR1HRbA",
+        "duration": "12:01",
+        "why": "把睡前滑手機這件事拆成機制與替代方案，而不是單純叫你不要滑"
+      },
+      "drills": [
+        {
+          "name": "睡前用手機為什麼是焦慮製造機",
+          "kind": "idea",
+          "target": "機制",
+          "dose": "五分鐘",
+          "title": "The Anxiety Generation Machine Of Phone Use Before Bed",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=Mkp4KNwthl8",
+          "duration": "5:15"
+        },
+        {
+          "name": "排隊時把手機收起來的理由",
+          "kind": "howto",
+          "target": "空檔練習",
+          "dose": "三分鐘",
+          "title": "Why You Should Put Away Your Phone While Waiting in Line | Deep Questions With Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=r2ceLe9b4_g",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u5",
+      "name": "青少年與智慧手機",
+      "type": "concept",
+      "assessment": "如果你家有青少年，實際去看一次他們的螢幕使用時間分佈，而不是憑印象。看完之後問自己：如果拿掉最大宗的那一項，那些時間會被什麼填滿？",
+      "tight": [
+        "以為禁止就能解決",
+        "把所有青少年心理問題都歸給手機"
+      ],
+      "weak": [
+        "能分辨相關與因果",
+        "知道替代活動比禁令更關鍵"
+      ],
+      "lesson": {
+        "title": "When Should Kids Get Smartphones? | Deep Questions with Cal Newport",
+        "channel": "Cal Newport",
+        "url": "https://www.youtube.com/watch?v=r8P3Xum1raE",
+        "duration": "10:02",
+        "why": "他對「小孩幾歲該有智慧手機」給出具體建議，同時明確承認證據不像公共討論那麼確定"
+      },
+      "drills": [
+        {
+          "name": "大學生該不該退出社群媒體",
+          "kind": "qa",
+          "target": "校園情境",
+          "dose": "四分鐘",
+          "title": "Should College Students Quit Social Media? | Deep Questions with Cal Newport",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=72UyiWwOHJI",
+          "duration": "3:57"
+        },
+        {
+          "name": "怎麼說服學生限制社群使用",
+          "kind": "qa",
+          "target": "教學現場",
+          "dose": "十五分鐘",
+          "title": "How Do I Convince My Students to Limit Social Media?",
+          "channel": "Cal Newport",
+          "url": "https://www.youtube.com/watch?v=RZnSa_8qHY8",
+          "duration": "15:08"
+        }
+      ]
+    }
+  ]
+}
