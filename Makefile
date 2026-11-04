@@ -2,6 +2,8 @@ PY := uv run python
 COURSE ?= course
 DIST ?= dist
 PORT ?= 8899
+# Secrets (.env holds op:// refs) are injected by 1Password CLI
+OP := op run --env-file=$(CURDIR)/.env --
 PROJECT ?= $(shell $(PY) -c "import json;print(json.load(open('$(COURSE)/course.config.json'))['site']['project'])")
 
 export COURSE
@@ -27,7 +29,7 @@ og: ## 用 headless Chrome 重新產生社群預覽圖
 	@echo "→ $(DIST)/og.png"
 
 counter: ## 建立瀏覽次數用的 D1 資料庫並寫出 wrangler 綁定（冪等，可重跑）
-	$(PY) src/build/setup_counter.py
+	$(OP) $(PY) src/build/setup_counter.py
 
 audit: ## 離線稽核設定檔、配額、影片長度與實證深度（確定性，不打網路）
 	$(PY) src/build/audit.py
@@ -52,7 +54,7 @@ serve: ## 本機預覽
 	@$(PY) -m http.server $(PORT) --directory $(DIST)
 
 deploy: build ## 建置後部署到 Cloudflare Pages
-	npm exec --yes -- wrangler@4 pages deploy $(DIST) \
+	$(OP) npm exec --yes -- wrangler@4 pages deploy $(DIST) \
 		--project-name $(PROJECT) --branch main --commit-dirty=true
 
 lint: ## ruff 檢查
